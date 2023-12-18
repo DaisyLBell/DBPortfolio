@@ -1199,6 +1199,13 @@ button:hover {
     position:absolute;
 }
 
+.intro-text {
+    width:100vw;
+    height:90vh;
+    margin-top:10vh;
+    overflow:hidden;
+}
+
 button p {
     color:#1b1464;
 }
