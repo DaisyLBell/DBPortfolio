@@ -61,8 +61,8 @@ nav, h2 {
     
     
 #menu-smallScreens img{
-        margin-left:10vw;
-    }        
+        margin-left:5vw;
+    }      
 
 
 h2 {
@@ -188,13 +188,13 @@ font-style: normal;
 
 .section2-imgs {
     display:block;
-    padding-top:33vh;
+    padding-top:10vh;
     position:relative;
 
 }
 
 .section2-img-top {
-    position:inherit;
+    position:relative;
     justify-content: right;
     margin-left:0vw;
 }
@@ -224,7 +224,8 @@ font-style: normal;
     width:30vw;
     height:auto;
 }
-
+    
+    
     #genzine-imgs img {
         width:70vw;
         height:auto;
@@ -256,7 +257,7 @@ font-style: normal;
     position:inherit;
     width:80vw;
     padding-left:10vw;
-    padding-top:15vh;
+    padding-top:10vh;
     padding-bottom:1vh;
 /*    text-align:right;*/
     }
@@ -271,11 +272,12 @@ font-style: normal;
 }  
     
     
-                .genzine-colorPalettes {
-        width:20vw;
+        .genzine-colorPalettes {
+        width:100vw;
         height:auto;
 /*        margin:1vh;*/
-        margin-left: 35vw;
+        margin-left: 14vw;
+        
         position:absolute;
         z-index:10;
         display:flex;
@@ -283,12 +285,20 @@ font-style: normal;
     }
     
     .genzine-colorPalettes img {
-        width:25vw;
+        width:20vw;
+        transform:rotate(-90deg);
         height:auto;
-        margin:1vh;
+        margin-left:14vw;
+        margin-right:8vh;
+        margin-top:-3vh;
     }
     
-                .onBoarding {
+     #cpLarge {
+        margin-left:0;
+        margin-top:0;
+    }
+    
+    .onBoarding {
     position:relative;
     margin-left:0;
     margin-top:-8vw;
@@ -316,7 +326,7 @@ font-style: normal;
         position:inherit;
     width:80vw;
     padding-left:10vw;
-    padding-top:15vh;
+    padding-top:10vh;
     padding-bottom:1vh;
     }
 
@@ -343,34 +353,34 @@ font-style: normal;
 
 #style1 {
     height:auto;
-    width:5vh;
+    width:30vw;
     position:absolute;
-    transform:rotate(0deg);
-    margin-top:-27vh;
-    margin-bottom:-5vh;
-    margin-left:57vw;
+    transform:rotate(90deg);
+    margin-top:34vh;
+    margin-bottom:0vh;
+    margin-left:25vw;
 }
 
 #style2 {
-    height:5vh;
-    width:auto;
-    margin-left:63vw;
-    margin-top:-20vh;
+    height:auto;
+    width:30vw;
+    margin-left:43vw;
+    margin-top:36.5vh;
     position:absolute;
 }
     
         .wdc-branding {
-    position:absolute;
-    margin-top:-40vh;
-    margin-left:65vw;
+    position:relative;
+    margin-top:0vh;
+    margin-left:10vw;
     margin-bottom:-2vh;
     display:block;
     z-index:10;
 }
 
 .wdc-branding img {
-    width:0vw;
-    height:auto;
+    width:auto;
+    height:10vh;
 }
 
 #section4-img {
@@ -397,7 +407,7 @@ font-style: normal;
     color:#f2f2e8;
     text-align: left;
     padding-left:10vw;
-    padding-top:15vh;
+    padding-top:10vh;
 }
     
     .section5 p {
@@ -456,7 +466,7 @@ font-style: normal;
     color:#1b1464;
     text-align: left;
     padding-left:10vw;
-    padding-top:15vh;
+    padding-top:10vh;
     }
     
                 .final-top {
@@ -649,8 +659,10 @@ nav, h2 {
 }
     
 #menu-smallScreens img{
-        margin-left:10vw;
+        margin-left:5vw;
     }
+    
+
 
 h2 {
 	font-size:32px;
@@ -774,21 +786,21 @@ padding-top:36vh;
 
 .section2-imgs {
     display:block;
-    padding-top:15vh;
+    padding-top:10vh;
     position:relative;
 
 }
 
 .section2-img-top {
-    position:inherit;
+    position:relative;
     justify-content: right;
-    margin-left:2vw;
+    margin-left:0vw;
 }
 
 .section2-img-bottom {
     position:inherit;
     justify-content: right;
-    right:5vw;
+    right:2vw;
 }
 
 #section2-img1 img {
@@ -810,7 +822,8 @@ padding-top:36vh;
     width:30vw;
     height:auto;
 }
-
+    
+    
     #genzine-imgs img {
         width:70vw;
         height:auto;
@@ -1229,9 +1242,7 @@ nav, h2 {
     width:auto;
 }
     
-#menu-smallScreens img{
-        margin-left:0vw;
-    }
+
 
 h2 {
 	font-size:32px;
@@ -1805,9 +1816,7 @@ nav, h2 {
 }
     
     
-#menu-smallScreens img{
-        margin-left:0vw;
-    }            
+            
 
 
 h2 {
@@ -2377,9 +2386,7 @@ nav, h2 {
     width:auto;
 }
 
-#menu-smallScreens img{
-        margin-left:0vw;
-    }
+
     
 h2 {
 	font-size:32px;
@@ -2938,6 +2945,9 @@ padding-top:32vh;
 
 
 body {
+    
+    width:100vw;
+/*    overflow-x:hidden;*/
     cursor: url('./cursor.svg') 16 16, auto;
     cursor: -webkit-image-set(url('./cursor.svg') 2x) 4 4, auto;
 
@@ -3034,6 +3044,8 @@ body {
     margin-left:7px;
     transition:2s;
 }
+
+
 
 
 
