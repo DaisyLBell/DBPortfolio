@@ -226,16 +226,10 @@ font-style: normal;
 }
 
     #genzine-imgs img {
-        width:80vw;
+        width:70vw;
         height:auto;
         padding:2vh;
-    }
-    
-    #genzine-imgs2 img {
-        width:100vw;
-        height:40vh;
-        overflow:hidden;
-        padding:2vh;
+        padding-top:-20vh;
     }
 
 .section1 {
@@ -818,16 +812,10 @@ padding-top:36vh;
 }
 
     #genzine-imgs img {
-        width:80vw;
+        width:70vw;
         height:auto;
         padding:2vh;
-    }
-    
-    #genzine-imgs2 img {
-        width:100vw;
-        height:40vh;
-        overflow:hidden;
-        padding:2vh;
+        padding-top:-20vh;
     }
 
 .section1 {
@@ -1395,14 +1383,21 @@ padding-top:40vh;
 
 #section2-img2 img {
     width:auto;
-    height:40vh;
+    height:30vh;
     padding-right:2vh;
 }
 
 #section2-img3 img {
     width:auto;
-    height:35vh;
+    height:25vh;
 }
+    
+    #genzine-imgs img {
+        width:40vw;
+        height:auto;
+        padding:2vh;
+        padding-top:-20vh;
+    }
 
 .section1 {
     width:100vw;
@@ -1965,14 +1960,21 @@ font-style: normal;
 
 #section2-img2 img {
     width:auto;
-    height:40vh;
+    height:25vh;
     padding-right:2vh;
 }
 
 #section2-img3 img {
     width:auto;
-    height:35vh;
+    height:30vh;
 }
+    
+#genzine-imgs img {
+        width:50vw;
+        height:auto;
+        padding:2vh;
+        padding-top:-20vh;
+    }
 
 .section1 {
     width:100vw;
@@ -2529,7 +2531,7 @@ font-style: normal;
 
 #section2-img2 img {
     width:auto;
-    height:40vh;
+    height:30vh;
     padding-right:2vh;
 }
 
@@ -2537,6 +2539,13 @@ font-style: normal;
     width:auto;
     height:35vh;
 }
+    
+#genzine-imgs img {
+        width:50vw;
+        height:auto;
+        padding:2vh;
+        padding-top:-20vh;
+    }
 
 
 .sticky1 {
