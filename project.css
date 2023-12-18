@@ -223,6 +223,19 @@ font-style: normal;
     height:auto;
 }
 
+    #genzine-imgs img {
+        width:80vw;
+        height:auto;
+        padding:2vh;
+    }
+    
+    #genzine-imgs2 img {
+        width:100vw;
+        height:40vh;
+        overflow:hidden;
+        padding:2vh;
+    }
+
 .section1 {
     width:100vw;
     height:100vh;
@@ -799,6 +812,19 @@ padding-top:36vh;
     width:30vw;
     height:auto;
 }
+
+    #genzine-imgs img {
+        width:80vw;
+        height:auto;
+        padding:2vh;
+    }
+    
+    #genzine-imgs2 img {
+        width:100vw;
+        height:40vh;
+        overflow:hidden;
+        padding:2vh;
+    }
 
 .section1 {
     width:100vw;
