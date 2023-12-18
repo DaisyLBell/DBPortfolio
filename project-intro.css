@@ -17,23 +17,30 @@
     width:auto;
 }
     
+        
+
+    
     
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 h1{
     font-size:20vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:14px;
     line-height:21px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
     
     
@@ -130,23 +137,29 @@ button {
     width:auto;
 }
     
+
+    
     
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 h1{
     font-size:16vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
     
     
@@ -243,23 +256,29 @@ button {
     width:auto;
 }
     
+
+    
     
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 h1{
     font-size:14vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
     
     
@@ -352,23 +371,29 @@ button {
     width:auto;
 }
     
+
+    
     
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 h1{
     font-size:11vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
     
     
@@ -465,22 +490,28 @@ button {
 }
     
     
+
+    
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 h1{
     font-size:9vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
     
     
@@ -578,24 +609,31 @@ button {
     width:auto;
 }
     
+
+    
+    
     
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 h1{
     font-size:8vw;
 /*    line-height:5vw;*/
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
     
     
@@ -691,25 +729,31 @@ button {
     width:auto;
 }
     
+
+    
     
 h1{
     font-size:8vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
     line-height:8vw;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
     
 
