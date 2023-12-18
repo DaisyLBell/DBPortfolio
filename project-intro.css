@@ -1091,7 +1091,10 @@ button:hover {
 }
 
 .menu-header {
+    .menu-header {
     position:relative;
+    z-index:95;
+}
 }
 
 .menu-header img {
