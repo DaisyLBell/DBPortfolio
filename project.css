@@ -58,12 +58,17 @@ nav, h2 {
     height:3.5vh;
     width:auto;
 }
+    
+    
+        
+
 
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 
 section {
@@ -80,14 +85,17 @@ section2 {
 
 h1{
     font-size:12vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:14px;
     line-height:21px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 .intro {
@@ -196,8 +204,8 @@ p {
 }
 
 #section2-img1 img {
-    width:auto;
-    height:31vh;
+    width:90vw;
+    height:auto;
     padding:2vh;
 }
 .section2-img-bottom {
@@ -205,14 +213,14 @@ p {
 }
 
 #section2-img2 img {
-    width:auto;
-    height:10vh;
+    width:58vw;
+    height:auto;
     padding-right:2vh;
 }
 
 #section2-img3 img {
-    width:auto;
-    height:18vh;
+    width:30vw;
+    height:auto;
 }
 
 .section1 {
@@ -431,7 +439,7 @@ p {
     height:100vh;
    background-color:#f2f2e8;
     z-index:3;
-    display:flex;
+    display:block;
 }
     
     .section6 h2 {
@@ -441,6 +449,51 @@ p {
     padding-left:10vw;
     padding-top:15vh;
     }
+    
+                .final-top {
+   display:block; 
+    position:relative;
+    width:100vw;
+    height:15vh;
+    padding-left:5vw;
+    
+}
+
+.final-bottom {
+    position:relative;
+    display:block;
+    justify-content:center;
+    width:100vw;
+    height:15vh;
+    padding-left:5vw;
+}
+
+
+.final-assets {
+    display:flex;
+}
+
+.final-assets img {
+    width:40vw;
+    height:auto;
+    padding:2.5vw;
+    }
+    
+    
+.final-assets-wdc {
+    display:block;
+}
+
+.final-assets-wdc img {
+    width:90vw;
+        height:30vh;
+    padding-left:5vw;
+    padding-top:1vh;
+    object-fit: cover;
+    }
+    
+    
+
     
     .section7 {
         width:100vw;
@@ -585,12 +638,15 @@ nav, h2 {
     height:3.5vh;
     width:auto;
 }
+    
+
 
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 
 section {
@@ -607,14 +663,17 @@ section2 {
 
 h1{
     font-size:15vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
  font-size:14px;
     line-height:21px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 .intro {
@@ -722,8 +781,8 @@ padding-top:36vh;
 }
 
 #section2-img1 img {
-    width:auto;
-    height:37.5vh;
+    width:90vw;
+    height:auto;
     padding:2vh;
 }
 .section2-img-bottom {
@@ -731,14 +790,14 @@ padding-top:36vh;
 }
 
 #section2-img2 img {
-    width:auto;
-    height:13vh;
-    padding-right:3vw;
+    width:58vw;
+    height:auto;
+    padding-right:2vh;
 }
 
 #section2-img3 img {
-    width:auto;
-    height:22vh;
+    width:30vw;
+    height:auto;
 }
 
 .section1 {
@@ -955,7 +1014,7 @@ padding-top:36vh;
     height:100vh;
    background-color:#f2f2e8;
     z-index:3;
-    display:flex;
+    display:block;
 }
     
     .section6 h2 {
@@ -965,6 +1024,51 @@ padding-top:36vh;
     padding-left:10vw;
     padding-top:15vh;
     }
+    
+    
+            .final-top {
+   display:block; 
+    position:relative;
+    width:100vw;
+    height:20vh;
+    padding-left:5vw;
+    
+}
+
+.final-bottom {
+    position:relative;
+    display:block;
+    justify-content:center;
+    width:100vw;
+    height:20vh;
+    padding-left:5vw;
+}
+
+
+.final-assets {
+    display:flex;
+}
+
+.final-assets img {
+    width:40vw;
+    height:auto;
+    padding:2.5vw;
+    }
+    
+.final-assets-wdc {
+    display:block;
+}
+
+.final-assets-wdc img {
+    width:90vw;
+    height:30vh;
+    padding-left:5vw;
+    padding-top:1vh;
+    object-fit: cover;
+    }
+    
+    
+
     
     .section7 {
         width:100vw;
@@ -1106,12 +1210,15 @@ nav, h2 {
     height:4vh;
     width:auto;
 }
+    
+
 
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 
 section {
@@ -1128,14 +1235,17 @@ section2 {
 
 h1{
     font-size:10vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 .intro {
@@ -1233,7 +1343,7 @@ padding-top:40vh;
 .section2-img-top {
     position:inherit;
     justify-content: right;
-    margin-left:38.5vw;
+    margin-left:3vw;
 }
 
 .section2-img-bottom {
@@ -1245,7 +1355,7 @@ padding-top:40vh;
 #section2-img1 img {
     width:auto;
     height:40vh;
-    padding:3vh;
+    padding:2vh;
 }
 .section2-img-bottom {
     display:flex;
@@ -1253,13 +1363,13 @@ padding-top:40vh;
 
 #section2-img2 img {
     width:auto;
-    height:20vh;
-    padding-right:3vw;
+    height:40vh;
+    padding-right:2vh;
 }
 
 #section2-img3 img {
     width:auto;
-    height:29vh;
+    height:35vh;
 }
 
 .section1 {
@@ -1474,7 +1584,7 @@ padding-top:40vh;
     height:100vh;
    background-color:#f2f2e8;
     z-index:3;
-    display:flex;
+    display:block;
 }
     
     .section6 h2 {
@@ -1483,6 +1593,48 @@ padding-top:40vh;
     text-align: left;
     padding-left:10vw;
     padding-top:15vh;
+    }
+    
+    
+        .final-top {
+   display:block; 
+    position:relative;
+    width:100vw;
+    height:30vh;
+    padding-left:10vw;
+    
+}
+
+.final-bottom {
+    position:relative;
+    display:block;
+    width:100vw;
+    height:30vh;
+    padding-left:10vw;
+}
+
+
+.final-assets {
+    display:flex;
+}
+
+.final-assets img {
+    width:35vw;
+    height:auto;
+    padding:2.5vw;
+    }
+    
+    
+.final-assets-wdc {
+    display:block;
+}
+
+.final-assets-wdc img {
+    width:80vw;
+    height:30vh;
+    padding-left:10vw;
+    padding-top:2vh;
+    object-fit: cover;
     }
     
     .section7 {
@@ -1624,12 +1776,17 @@ nav, h2 {
     height:4vh;
     width:auto;
 }
+    
+    
+            
+
 
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 
 section {
@@ -1646,14 +1803,17 @@ section2 {
 
 h1{
     font-size:8vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 .intro {
@@ -1751,7 +1911,7 @@ p {
 .section2-img-top {
     position:inherit;
     justify-content: right;
-    margin-left:52vw;
+    margin-left:3vw;
 }
 
 .section2-img-bottom {
@@ -1759,25 +1919,25 @@ p {
     justify-content: right;
     right:5vw;
 }
-
+    
 #section2-img1 img {
-    width:40vw;
-    height:auto;
-    padding:3vw;
+    width:auto;
+    height:40vh;
+    padding:2vh;
 }
 .section2-img-bottom {
     display:flex;
 }
 
 #section2-img2 img {
-    width:25vw;
-    height:auto;
-    padding-right:3vw;
+    width:auto;
+    height:40vh;
+    padding-right:2vh;
 }
 
 #section2-img3 img {
-    width:20vw;
-    height:auto;
+    width:auto;
+    height:35vh;
 }
 
 .section1 {
@@ -1988,7 +2148,7 @@ p {
     height:100vh;
    background-color:#f2f2e8;
     z-index:3;
-    display:flex;
+    display:block;
 }
     
     .section6 h2 {
@@ -1998,6 +2158,49 @@ p {
     padding-left:20vw;
     padding-top:20vh;
     }
+    
+    
+    .final-top {
+   display:block; 
+    position:relative;
+    width:100vw;
+    height:30vh;
+    padding-left:20vw;
+    
+}
+
+.final-bottom {
+    position:relative;
+    display:block;
+    width:100vw;
+    height:30vh;
+    padding-left:20vw;
+}
+
+
+.final-assets {
+    display:flex;
+}
+
+.final-assets img {
+    width:25vw;
+    height:auto;
+    padding:2.5vw;
+    }
+    
+    
+        .final-assets-wdc {
+    display:block;
+}
+
+.final-assets-wdc img {
+    width:60vw;
+    height:25vh;
+    padding-left:20vw;
+    padding-top:2vh;
+    object-fit: cover;
+    }
+  
     
     .section7 {
         width:100vw;
@@ -2138,11 +2341,14 @@ nav, h2 {
     width:auto;
 }
 
+
+    
 h2 {
 	font-size:32px;
     line-height:48px;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:500;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
 }
 
 section {
@@ -2159,14 +2365,17 @@ section2 {
 
 h1{
     font-size:7vw;
-	font-family:"Henderson Slab Basic Black";
-	font-weight:800;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 900;
+font-style: normal;
 }
 
 p {
     font-size:16px;
     line-height:24px;
-	font-family:"Acumin Pro Wide";
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
 }
 
 .intro {
@@ -2264,19 +2473,19 @@ p {
 .section2-img-top {
     position:inherit;
     justify-content: right;
-    right:5vw;
+    margin-left:3vw;
 }
 
 .section2-img-bottom {
     position:inherit;
     justify-content: right;
-    right:22.75vw;
+    right:5vw;
 }
-
+    
 #section2-img1 img {
     width:auto;
-    height:45vh;
-    padding:2.5vh;
+    height:40vh;
+    padding:2vh;
 }
 .section2-img-bottom {
     display:flex;
@@ -2284,13 +2493,13 @@ p {
 
 #section2-img2 img {
     width:auto;
-    height:20vh;
-    padding-right:2.5vh;
+    height:40vh;
+    padding-right:2vh;
 }
 
 #section2-img3 img {
     width:auto;
-    height:30vh;
+    height:35vh;
 }
 
 
@@ -2543,15 +2752,59 @@ padding-top:32vh;
     height:100vh;
    background-color:#f2f2e8;
     z-index:3;
-    display:flex;
+    display:block;
 }
     
     .section6 h2 {
-        width:30vw;
+        width:100vw;
     color:#1b1464;
     text-align: left;
     padding-left:20vw;
     padding-top:20vh;
+    }
+    
+    
+    
+.final-top {
+   display:block; 
+    position:relative;
+    width:100vw;
+    height:30vh;
+    padding-left:25vw;
+    
+}
+
+.final-bottom {
+    position:relative;
+    display:block;
+    width:100vw;
+    height:30vh;
+    padding-left:25vw;
+}
+
+
+.final-assets {
+    display:flex;
+}
+
+.final-assets img {
+    width:20vw;
+    height:auto;
+    padding:2.5vw;
+    
+}
+    
+    
+            .final-assets-wdc {
+    display:block;
+}
+
+.final-assets-wdc img {
+    width:50vw;
+    height:25vh;
+    padding-left:25vw;
+    padding-top:2vh;
+    object-fit: cover;
     }
     
     .section7 {
