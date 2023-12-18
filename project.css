@@ -60,7 +60,9 @@ nav, h2 {
 }
     
     
-        
+#menu-smallScreens img{
+        margin-left:10vw;
+    }        
 
 
 h2 {
@@ -652,7 +654,9 @@ nav, h2 {
     width:auto;
 }
     
-
+#menu-smallScreens img{
+        margin-left:10vw;
+    }
 
 h2 {
 	font-size:32px;
@@ -1237,7 +1241,9 @@ nav, h2 {
     width:auto;
 }
     
-
+#menu-smallScreens img{
+        margin-left:0vw;
+    }
 
 h2 {
 	font-size:32px;
@@ -1804,7 +1810,9 @@ nav, h2 {
 }
     
     
-            
+#menu-smallScreens img{
+        margin-left:0vw;
+    }            
 
 
 h2 {
@@ -2367,7 +2375,9 @@ nav, h2 {
     width:auto;
 }
 
-
+#menu-smallScreens img{
+        margin-left:0vw;
+    }
     
 h2 {
 	font-size:32px;
