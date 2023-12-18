@@ -374,6 +374,10 @@ button {
     height:4vh;
     width:auto;
 }
+
+	#menu-smallScreens img{
+        margin-left:0vw;
+    }
     
 
     
@@ -493,7 +497,9 @@ button {
     width:auto;
 }
     
-    
+  #menu-smallScreens img{
+        margin-left:0vw;
+    }  
 
     
 h2 {
@@ -614,7 +620,9 @@ button {
 }
     
 
-    
+#menu-smallScreens img{
+        margin-left:0vw;
+    }
     
     
 h2 {
@@ -733,7 +741,9 @@ button {
     width:auto;
 }
     
-
+#menu-smallScreens img{
+        margin-left:0vw;
+    }
     
     
 h1{
