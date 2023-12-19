@@ -893,7 +893,7 @@ nav {
 
 nav, h2 {
     margin-right:5%;
-    font-weight:900;
+/*    font-weight:900;*/
     
 
 }
@@ -933,7 +933,8 @@ nav, h2 {
 }
 
 .menu-nav h2 {
-    padding-right:3%;
+    margin-right:5%;
+/*    font-weight:900;*/
 }
 
 .menu-nav:hover {

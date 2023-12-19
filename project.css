@@ -26,7 +26,8 @@ nav {
 }
 
 nav, h2 {
-    padding-right:3%;
+    margin-right:5%;
+/*    font-weight:900;*/
     
 
 }
@@ -633,7 +634,8 @@ nav {
 }
 
 nav, h2 {
-    padding-right:3%;
+    margin-right:5%;
+/*    font-weight:900;*/
 
 }
 
@@ -1222,7 +1224,8 @@ nav {
 }
 
 nav, h2 {
-    padding-right:3%;
+    margin-right:5%;
+/*    font-weight:900;*/
 
 }
 
@@ -1800,7 +1803,8 @@ nav {
 }
 
 nav, h2 {
-    padding-right:3%;
+    margin-right:5%;
+/*    font-weight:900;*/
 
 }
 
@@ -2371,7 +2375,8 @@ nav {
 }
 
 nav, h2 {
-    padding-right:3%;
+    margin-right:5%;
+/*    font-weight:900;*/
 
 }
 
@@ -2957,8 +2962,10 @@ padding-top:32vh;
 }
 
 html {
+/*
     width:100vw;
     overflow-x:hidden;
+*/
 }
 
 
@@ -2998,8 +3005,8 @@ body {
 }
 
 .menu-nav h2 {
-    padding-right:5%;
-    font-weight:900;
+    margin-right:5%;
+/*    font-weight:900;*/
 }
 
 .menu-nav:hover {
