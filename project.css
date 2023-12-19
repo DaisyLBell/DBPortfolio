@@ -354,19 +354,19 @@ font-style: normal;
 
 #style1 {
     height:auto;
-    width:30vw;
+    width:45vw;
     position:absolute;
     transform:rotate(90deg);
-    margin-top:34vh;
+    margin-top:30vh;
     margin-bottom:0vh;
-    margin-left:25vw;
+    margin-left:5vw;
 }
 
 #style2 {
     height:auto;
-    width:30vw;
-    margin-left:43vw;
-    margin-top:36.5vh;
+    width:50vw;
+    margin-left:30vw;
+    margin-top:38vh;
     position:absolute;
 }
     
@@ -948,7 +948,7 @@ padding-top:36vh;
 
 #style1 {
     height:auto;
-    width:10vh;
+    width:15vh;
     position:relative;
     transform:rotate(-90deg);
     margin-top:-4vh;
@@ -956,9 +956,9 @@ padding-top:36vh;
 }
 
 #style2 {
-    height:10vh;
+    height:15vh;
     width:auto;
-    margin-left:5vw;
+    margin-left:7vw;
     margin-top:-0vh;
     position:relative;
 }
@@ -1532,7 +1532,7 @@ padding-top:40vh;
 
 #style1 {
     height:auto;
-    width:10vh;
+    width:18vh;
     position:relative;
     transform:rotate(-90deg);
     margin-top:-4vh;
@@ -1540,9 +1540,9 @@ padding-top:40vh;
 }
 
 #style2 {
-    height:10vh;
+    height:18vh;
     width:auto;
-    margin-left:5vw;
+    margin-left:7vw;
     margin-top:-0vh;
     position:relative;
 }
