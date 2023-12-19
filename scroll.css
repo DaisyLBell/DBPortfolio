@@ -283,7 +283,7 @@ padding-top:32vh;
     background-color:#f5f5ec;
     box-shadow:5px 5px 10px #c3c3bb;
     width:30vw;
-    height:18vh;
+    height:30vh;
     margin:1vw;
     display:block;
     align-content: center;
@@ -301,11 +301,11 @@ padding-top:32vh;
 }
 
 .project img {
-    width:25vw;
-    height:10vh;
+    width:30vw;
+    height:22.5vh;
     object-fit: cover;
-    margin-top:2.5vw;
-    margin-left:2.5vw;
+    margin-top:0vw;
+    margin-left:0vw;
 
 }
 
