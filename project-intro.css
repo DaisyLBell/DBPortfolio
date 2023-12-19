@@ -860,6 +860,7 @@ button {
 html {
     scroll-snap-type:both mandatory;
     scroll-margin-top: 10vh;
+    width:100vw;
     overflow-x:hidden;
 }
     
@@ -891,7 +892,8 @@ nav {
 }
 
 nav, h2 {
-    margin-right:3%;
+    margin-right:5%;
+    font-weight:900;
     
 
 }

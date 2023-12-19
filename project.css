@@ -2998,7 +2998,8 @@ body {
 }
 
 .menu-nav h2 {
-    padding-right:3%;
+    padding-right:5%;
+    font-weight:900;
 }
 
 .menu-nav:hover {
