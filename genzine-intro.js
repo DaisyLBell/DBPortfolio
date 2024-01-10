@@ -15,10 +15,10 @@ const image14 = "carousel-18.jpg";
 const image15 = "gd-spectrum-footer.jpg";
 const image16 = "gd-renaissance-footer.jpg";
 const image17 = "spectrum-gdHome-2.jpg";
-const image18 = "gd-renaissance-header.png";
-const image19 = "alt-spectrum.png";
-const image20 = "zine3-open-zine-2.png";
-const image21 = "zine2_open-zines.png";
+const image18 = "gd-renaissance-header.jpg";
+const image19 = "alt-spectrum.jpg";
+const image20 = "zine3-open-zine-2.jpg";
+const image21 = "zine2_open-zines.jpg";
 
 
 const images = [image1, image18, image19, image16, image5, image20, image15, image21, image13, image6, image7, image8, image2, image3, image4, image9, image10, image11, image12, image13, image14];
