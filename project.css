@@ -2565,10 +2565,17 @@ font-style: normal;
 }
     
 #genzine-imgs img {
-        width:50vw;
+        width:40vw;
         height:auto;
         padding:2vh;
         padding-top:-20vh;
+    }
+    
+    #genzine-imgs2 img {
+        width:auto;
+        height:25vh;
+        padding:1vh;
+        padding-top:2vh;
     }
 
 
@@ -2628,11 +2635,11 @@ padding-top:32vh;
 }
     
     .genzine-colorPalettes {
-        width:15vw;
-        height:20vh;
+        width:20vw;
+        height:50vh;
 /*        margin:1vh;*/
         margin-left: 0vw;
-        position:relative;
+        position:absolute;
         z-index:10;
         display:block;
         margin-top:0vh;
@@ -2640,13 +2647,13 @@ padding-top:32vh;
     
     .genzine-colorPalettes img {
         width:auto;
-        height:30vh;
-        margin:2vh;
+        height:37vh;
+        margin:-5vh;
     }
     
     #cpLarge {
-        margin-left:55vw;
-        margin-top:-50vh;
+        margin-left:60vw;
+        margin-top:-47vh;
     }
     
     
@@ -2661,16 +2668,16 @@ padding-top:32vh;
 }
     
     #marginalia-moodboard img{
-        width:40vw;
+        width:45vw;
         height:auto;
-        margin-left:30vw;
-        margin-top:-5vh;
+        margin-left:25vw;
+        margin-top:1vh;
     }
         #genzine-moodboard img{
-        width:35vw;
+        width:40vw;
         height:auto;
-        margin-left:-35vw;
-        margin-top:-15vh;
+        margin-left:-25vw;
+        margin-top:1vh;
     }
 
 .section4 {
@@ -2721,7 +2728,7 @@ padding-top:32vh;
 }
 
 #style2 {
-    height:20vh;
+    height:18vh;
     width:auto;
     margin-left:5vw;
     position:absolute;
