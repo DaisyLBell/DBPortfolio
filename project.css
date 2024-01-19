@@ -1398,7 +1398,7 @@ padding-top:40vh;
 
 #section2-img1 img {
     width:auto;
-    height:40vh;
+    height:38vh;
     padding:2vh;
 }
 .section2-img-bottom {
@@ -1406,14 +1406,14 @@ padding-top:40vh;
 }
 
 #section2-img2 img {
-    width:auto;
-    height:30vh;
+    width:40vw;
+    height:auto;
     padding-right:2vh;
 }
 
 #section2-img3 img {
-    width:auto;
-    height:25vh;
+    width:45vw;
+    height:auto;
 }
     
     #genzine-imgs img {
@@ -1964,7 +1964,7 @@ font-style: normal;
 .section2-img-top {
     position:inherit;
     justify-content: right;
-    margin-left:3vw;
+    margin-left:30vw;
 }
 
 .section2-img-bottom {
@@ -1974,8 +1974,8 @@ font-style: normal;
 }
     
 #section2-img1 img {
-    width:auto;
-    height:40vh;
+    width:55vw;
+    height:auto;
     padding:2vh;
 }
 .section2-img-bottom {
@@ -2535,7 +2535,7 @@ font-style: normal;
 .section2-img-top {
     position:inherit;
     justify-content: right;
-    margin-left:3vw;
+    margin-left:55vw;
 }
 
 .section2-img-bottom {
@@ -2545,8 +2545,8 @@ font-style: normal;
 }
     
 #section2-img1 img {
-    width:auto;
-    height:40vh;
+    width:35vw;
+    height:auto;
     padding:2vh;
 }
 .section2-img-bottom {
@@ -2708,20 +2708,20 @@ padding-top:32vh;
 }
 
 .styleGuide img {
-    width:15vw;
-    height:15vh;
+    width:20vw;
+    height:20vh;
     object-fit: contain;
 }
 
 #style1 {
-    height:40vh;
+    height:45vh;
     width:auto;
     position:absolute;
     transform:rotate(0deg);
 }
 
 #style2 {
-    height:18vh;
+    height:20vh;
     width:auto;
     margin-left:5vw;
     position:absolute;

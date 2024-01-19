@@ -181,6 +181,32 @@ body{
     border-radius: 0.5vw;
     }
     
+    
+    
+   .modal-wrapper {
+    width: 100vw;
+    height: 90vh;
+    background-color: rgba(255, 250, 240, 0.6);
+    
+    padding-top:10vh;
+    padding-left:20vw;
+    padding-right:20vw;
+    
+    position:absolute;
+    z-index:100;
+    display:none;
+    }
+    
+    .modal-wrapper i {
+        top:50%;
+    }
+    
+    .modal-carousel img {
+    height: 80vh;
+    width:auto;
+    border-radius: 0.5vw;
+    } 
+    
 }
 
 .wrapper{
