@@ -157,8 +157,8 @@ body{
     }
     
     .a-carousel-3 img {
-    height: 30vw;
-    width:auto;
+    height: auto;
+    width:35vh;
     border-radius: 0.5vw;
     }
     

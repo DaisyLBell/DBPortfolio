@@ -59,10 +59,6 @@ carousel.addEventListener("touchend", dragStop);
 
 
 
-
-
-
-
 const carousel2 = document.querySelector(".carousel-2"),
 firstImg2 = carousel2.querySelectorAll("img")[0],
 arrowIcons2 = document.querySelectorAll(".wrapper-2 i");
