@@ -2154,7 +2154,7 @@ font-style: normal;
 }
 
 .section5 h2 {
-    width:50vw;
+    width:60vw;
     color:#f2f2e8;
     text-align: left;
     padding-left:20vw;
@@ -2162,7 +2162,7 @@ font-style: normal;
 }
     
     .section5 p {
-        width:50vw;
+        width:60vw;
         color:#f2f2e8;
         padding-left:20vw;
         padding-top:2vh;
@@ -2769,7 +2769,7 @@ padding-top:32vh;
 }
     
     .section5 p {
-        width:60vw;
+        width:40vw;
         color:#f2f2e8;
         padding-left:20vw;
         padding-top:2vh;

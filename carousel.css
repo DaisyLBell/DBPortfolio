@@ -23,7 +23,7 @@ body{
     
     .a-wrapper {
     width: 90vw;
-    padding-top:5vh;
+    padding-top:1vh;
     margin-left:5vw;
     margin-right:5vw; 
     min-height: 75vw;
@@ -34,8 +34,8 @@ body{
     }
     
     .a-carousel img {
-    height: 75vw;
-    width:75vw;
+    height: 40vh;
+    width:auto;
     border-radius: 2vw;  
     }
     
@@ -52,8 +52,8 @@ body{
     }
     
     .carousel-2 img {
-    height: 30vh;
-    width:auto;
+    height: auto;
+    width:89vw;
     border-radius: 1vw;   
     }
     
@@ -62,11 +62,11 @@ body{
 @media only screen and (min-width:550px) {
     
     .a-wrapper-1 {
-     width: 70vw;
-    padding-top:6vw;
-    margin-left:15vw;
-    margin-right:15vw;
-    min-height: 60vw;
+     width: 80vw;
+    padding-top:1vh;
+    margin-left:10vw;
+    margin-right:10vw;
+    min-height: 40vw;
     }
     
     .a-wrapper-1 i {
@@ -74,17 +74,17 @@ body{
     }
     
     .a-carousel-1 img {
-    height: 60vw;
+    height: 40vh;
     width:auto;
     border-radius: 2vw; 
     }
     
     
         .wrapper-2 {
-     width: 70vw;
-    padding-top:2vh;
-    margin-left:15vw;
-    margin-right:15vw;
+     width: 80vw;
+    padding-top:1vh;
+    margin-left:10vw;
+    margin-right:10vw;
     min-height: 30vh;
     }
     
@@ -93,7 +93,7 @@ body{
     }
     
     .carousel-2 img {
-    height: 30vh;
+    height: 40vh;
     width:auto;
     border-radius: 1vw;   
     }
@@ -103,10 +103,10 @@ body{
 @media only screen and (min-width:960px) {
     
     .a-wrapper-2 {
-     width: 60vw;
+     width: 80vw;
     padding-top:1vh;
-    margin-left:20vw;
-    margin-right:20vw;
+    margin-left:10vw;
+    margin-right:10vw;
     min-height: 40vw;
     }
     
@@ -122,10 +122,10 @@ body{
     
     
         .wrapper-2 {
-     width: 70vw;
-    padding-top:5vh;
-    margin-left:15vw;
-    margin-right:15vw;
+     width: 80vw;
+    padding-top:1vh;
+    margin-left:10vw;
+    margin-right:10vw;
     min-height: 30vh;
     }
     
@@ -134,7 +134,7 @@ body{
     }
     
     .carousel-2 img {
-    height: 30vh;
+    height: 40vh;
     width:auto;
     border-radius: 1vw;   
     }
@@ -145,10 +145,10 @@ body{
     
     
     .a-wrapper-3 {
-    width: 50vw;
+    width: 60vw;
     padding-top:1vh;
-    margin-left:25vw;
-    margin-right:25vw;
+    margin-left:20vw;
+    margin-right:20vw;
     min-height: 30vh;
     }
     
@@ -165,7 +165,7 @@ body{
     
         .wrapper-2 {
     width: 60vw;
-    padding-top:5vh;
+    padding-top:1vh;
     margin-left:20vw;
     margin-right:20vw;
     min-height: 30vh;
@@ -176,7 +176,7 @@ body{
     }
     
     .carousel-2 img {
-    height: 30vh;
+    height: 35vh;
     width:auto;
     border-radius: 0.5vw;
     }
