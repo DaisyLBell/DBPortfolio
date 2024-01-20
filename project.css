@@ -1433,7 +1433,7 @@ padding-top:40vh;
     
     #genzine-imgs img {
         width:auto;
-        height:50vh;
+        height:40vh;
         padding:2vh;
         padding-top:-20vh;
     }
@@ -1491,6 +1491,7 @@ padding-top:40vh;
         width:20vw;
         height:auto;
         margin:6vh;
+        transform:rotate(-90deg);
     }
     
         .onBoarding {
@@ -1523,16 +1524,16 @@ padding-top:40vh;
 
     .section4 h2 {
         position:inherit;
-    width:80vw;
-    padding-left:10vw;
+    width:60vw;
+    padding-left:30vw;
     padding-top:15vh;
     padding-bottom:1vh;
     }
 
 .section4 p {
     position:inherit;
-    width:80vw;
-    padding-left:10vw;
+    width:60vw;
+    padding-left:30vw;
     padding-top:1vh;
 }
     
@@ -1647,6 +1648,7 @@ padding-top:40vh;
 .draft-imgs-genzine img {
     height:auto;
     width:80vw;
+    padding-top:2vh;
 }
     
 .section6 {
@@ -2072,6 +2074,7 @@ font-style: normal;
         width:15vw;
         height:auto;
         margin:6vh;
+        transform:rotate(-90deg);
     }
     
     #cpLarge {
@@ -2162,7 +2165,7 @@ font-style: normal;
 }
 
 .wdc-branding img {
-    width:18vw;
+    width:23vw;
     height:auto;
 }
 
@@ -2224,7 +2227,7 @@ font-style: normal;
 
 .draft-imgs-genzine img {
     height:auto;
-    width:65vw;
+    width:60vw;
 }
     
 .section6 {
@@ -2672,7 +2675,8 @@ padding-top:32vh;
     .genzine-colorPalettes img {
         width:auto;
         height:37vh;
-        margin:-3vh;
+        margin:-2vh;
+        transform:rotate(-90deg);
     }
     
     #cpLarge {
@@ -2698,8 +2702,8 @@ padding-top:32vh;
         margin-top:-1vh;
     }
         #genzine-moodboard img{
-        width:40vw;
-        height:auto;
+        width:auto;
+        height:35vh;
         margin-left:-25vw;
         margin-top:1vh;
     }
@@ -2768,6 +2772,7 @@ padding-top:32vh;
     position:absolute;
 /*    margin-top:-40vh;*/
     margin-left:15vw;
+    margin-top:-5vh;
     display:block;
     z-index:10;
 }
