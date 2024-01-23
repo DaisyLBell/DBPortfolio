@@ -114,7 +114,7 @@ body{
     }
     
     .a-carousel-1 img {
-    height: 40vh;
+    height: 50vh;
     width:auto;
     border-radius: 2vw; 
     }
@@ -155,7 +155,7 @@ body{
     }
     
     .a-carousel-2 img {
-    height: 40vw;
+    height: 52vh;
     width:auto;
     border-radius: 1vw;   
     }

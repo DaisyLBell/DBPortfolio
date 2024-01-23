@@ -1,0 +1,33 @@
+@media only screen and (max-width:449px) {
+   active, .image {
+        justify-content:center;
+        display:block;
+        position:absolute;
+    } 
+    
+    .image img {
+        width:90vw;
+        height:90vw;
+        object-fit: cover;
+        object-position: center;
+        padding-left:10vw;
+    }
+}
+
+@media only screen and (min-width:450px) {
+    .image {
+        
+    }
+}
+
+@media only screen and (min-width:600px) {
+    
+}
+
+@media only screen and (min-width:1100px) {
+    
+}
+
+@media only screen and (min-width:1200px) {
+    
+}
