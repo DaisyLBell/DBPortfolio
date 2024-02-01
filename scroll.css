@@ -43,6 +43,25 @@ nav:hover {
      transition:2s;
     }
 */
+    
+    
+    .nav-logo {
+        position:absolute;
+        z-index:10;
+        margin-left:4.5vw;
+        margin-top:4vh;
+        
+    }
+    
+    .nav-logo img:hover {
+        cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    }
+    
+    .nav-logo img {
+        height:4vh;
+        width:auto;
+    }
 
 .nav-below {
      width:100vw;
@@ -401,6 +420,24 @@ nav, h2 {
     cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
     
 }
+    
+    .nav-logo {
+        position:absolute;
+        z-index:10;
+        margin-left:4.5vw;
+        margin-top:4vh;
+        
+    }
+    
+    .nav-logo img:hover {
+        cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    }
+    
+    .nav-logo img {
+        height:4vh;
+        width:auto;
+    }
 
 .nav-below {
     width:100vw;
@@ -411,6 +448,8 @@ nav, h2 {
         left:3%;
     
 }
+    
+    
 
 
 .nav-below img {
@@ -444,6 +483,7 @@ section2 {
 }
 
 h1{
+    font-size:14vw;
     font-family: "henderson-slab-basic", serif;
 font-weight: 900;
 font-style: normal;
@@ -467,7 +507,7 @@ font-style: normal;
     display:flex; 
     width:90vw;
     margin-left:8vw;
-    margin-top:30vh;
+    margin-top:33vh;
     position:absolute;
     justify-content: center;
     align-items: center;   
@@ -485,7 +525,7 @@ font-style: normal;
 
 .introbg2-img img {
     width:auto;
-    margin-left:25vw;
+    margin-left:20vw;
     margin-top:12vh;
     height:45vh;
     position:absolute;
@@ -754,6 +794,24 @@ nav, h2 {
     cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
     
 }
+    
+    .nav-logo {
+        position:absolute;
+        z-index:10;
+        margin-left:4.5vw;
+        margin-top:4vh;
+        
+    }
+    
+    .nav-logo img:hover {
+        cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    }
+    
+    .nav-logo img {
+        height:4vh;
+        width:auto;
+    }
 
 .nav-below {
    width:100vw;
@@ -820,7 +878,7 @@ font-style: normal;
     display:flex; 
     width:55vw;
     margin-left:8vw;
-    margin-top:25vh;
+    margin-top:22vh;
     position:absolute;
     justify-content: center;
     align-items: center;   
@@ -838,8 +896,8 @@ font-style: normal;
 
 .introbg2-img img {
     width:100vw;
-    margin-left:27vw;
-    margin-top:25vh;
+    margin-left:25vw;
+    margin-top:12vh;
     height:auto;
     position:absolute;
 }
@@ -856,7 +914,7 @@ font-style: normal;
 
 .hi img {
     position:absolute;
-    width:20vw;
+    width:24vw;
     height:auto;
     margin-left:-3vw;
     margin-top:-1vw;
@@ -1105,6 +1163,25 @@ nav, h2 {
     cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
     
 }
+    
+    
+    .nav-logo {
+        position:absolute;
+        z-index:10;
+        margin-left:4.5vw;
+        margin-top:4vh;
+        
+    }
+    
+    .nav-logo img:hover {
+        cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    }
+    
+    .nav-logo img {
+        height:4vh;
+        width:auto;
+    }
 
 .nav-below {
     width:100vw;
@@ -1450,6 +1527,25 @@ nav, h2 {
     
 
 }
+    
+    
+    .nav-logo {
+        position:absolute;
+        z-index:99;
+        margin-left:4.5vw;
+        margin-top:4vh;
+        
+    }
+    
+    .nav-logo img:hover {
+        cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    }
+    
+    .nav-logo img {
+        height:4vh;
+        width:auto;
+    }
 
 .nav-below {
     width:100vw;
@@ -1865,4 +1961,35 @@ body {
 
 .section3 h2 {
     font-weight:900;
+}
+
+
+#myBtn {
+  display: none; 
+  position: fixed; 
+  bottom: 18px; 
+  right: 18px; 
+  z-index: 10; 
+  border: none;
+  outline: none;
+  background-color: #f2f2e8; 
+  color: #1b1464; 
+  cursor: pointer; 
+  padding: 20px; 
+  border-radius: 50px; 
+ font-size:16px;
+font-family: "henderson-slab-basic", serif;
+font-style: normal;
+	font-weight:600;
+
+}
+
+#myBtn:hover {
+    transition:0.8s;
+  background-color: #1b1464;
+    box-shadow: 5px 5px 25px rgba(240, 230, 252, 0.11);
+    padding:20px;
+    color: #f2f2e8;
+     cursor: url('./pointer2.svg') 4 4, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
 }
