@@ -591,6 +591,51 @@ font-style: normal;
     font-size:12px;
     line-height:18px;
 }
+    
+        .closing {
+        position:absolute;
+        width:100vw;
+        height:100vh;
+        z-index:5;
+        padding-top:37vh;
+        padding-right:10vw;
+        padding-bottom:10vh;
+        padding-left:10vw;
+        display:flex;
+    }
+    
+    .closingPages {
+        display:block;
+        color:#f2f2e8;
+        text-align:left;
+        margin-right:7vw;
+        text-decoration:none;
+    }
+    
+    .closingPages p:hover {
+         cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        color: #cacaef;
+    }
+    
+    .closingPages h2 {
+        
+        	font-size:20px;
+    line-height:20px;
+	font-family: "henderson-slab-basic", serif;
+font-weight: 600;
+font-style: normal;
+}
+    
+   .closingPages p {
+    font-size:14px;
+    line-height:14px;
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
+    color: #f2f2e8;   
+    
+}
 
 .footer-left {
     width:20vw;
@@ -1210,6 +1255,37 @@ padding-top:36vh;
     margin-left:2.5vw;
     margin-right:2.5vw;
 }
+    
+        .closing {
+        position:absolute;
+        width:100vw;
+        height:100vh;
+        z-index:5;
+        padding-top:37vh;
+        padding-right:10vw;
+        padding-bottom:10vh;
+        padding-left:10vw;
+        display:flex;
+    }
+    
+    .closingPages {
+        display:block;
+        color:#f2f2e8;
+        text-align:left;
+        margin-right:8vw;
+        text-decoration:none;
+    }
+    
+        .closingPages p {
+
+        color: #f2f2e8;
+    }
+    
+    .closingPages p:hover {
+         cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        color: #cacaef;
+    }
 
 .footer-left {
     width:20vw;
@@ -1813,6 +1889,38 @@ padding-top:40vh;
     color: #1b1464;
     margin-top:1.25vw;
 }
+    
+
+.closing {
+        position:absolute;
+        width:100vw;
+        height:100vh;
+        z-index:5;
+        padding-top:37vh;
+        padding-right:20vw;
+        padding-bottom:20vh;
+        padding-left:20vw;
+        display:flex;
+    }
+    
+    .closingPages {
+        display:block;
+        color:#f2f2e8;
+        text-align:left;
+        margin-right:7vw;
+        text-decoration:none;
+    }
+    
+        .closingPages p {
+
+        color: #f2f2e8;
+    }
+    
+    .closingPages p:hover {
+         cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        color: #cacaef;
+    }
 
 .footer-left {
     width:20vw;
@@ -2410,6 +2518,37 @@ font-style: normal;
     color: #1b1464;
     margin-top:1.25vw;
 }
+    
+    .closing {
+        position:absolute;
+        width:100vw;
+        height:100vh;
+        z-index:5;
+        padding-top:37vh;
+        padding-right:20vw;
+        padding-bottom:20vh;
+        padding-left:20vw;
+        display:flex;
+    }
+    
+    .closingPages {
+        display:block;
+        color:#f2f2e8;
+        text-align:left;
+        margin-right:5vw;
+        text-decoration:none;
+    }
+    
+        .closingPages p {
+
+        color: #f2f2e8;
+    }
+    
+    .closingPages p:hover {
+         cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        color: #cacaef;
+    }
 
 .footer-left {
     width:20vw;
@@ -3059,6 +3198,37 @@ padding-top:32vh;
     margin-top:2.5vh;
     text-decoration:none;
 }
+    
+    .closing {
+        position:absolute;
+        width:100vw;
+        height:100vh;
+        z-index:5;
+        padding-top:37vh;
+        padding-right:20vw;
+        padding-bottom:20vh;
+        padding-left:20vw;
+        display:flex;
+    }
+    
+    .closingPages {
+        display:block;
+        color:#f2f2e8;
+        text-align:left;
+        margin-right:5vw;
+        text-decoration:none;
+    }
+    
+    .closingPages p {
+
+        color: #f2f2e8;
+    }
+    
+    .closingPages p:hover {
+         cursor: url('./pointer2.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        color: #cacaef;
+    }
 
 .footer-left {
     width:20vw;
