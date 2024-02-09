@@ -247,7 +247,7 @@ font-style: normal;
     
     
     #genzine-imgs img {
-        width:70vw;
+        width:0;
         height:auto;
         padding:2vh;
         padding-top:-20vh;
@@ -920,7 +920,7 @@ padding-top:36vh;
     
     
     #genzine-imgs img {
-        width:70vw;
+        width:0;
         height:auto;
         padding:2vh;
         padding-top:-20vh;
