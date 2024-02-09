@@ -2439,9 +2439,25 @@ padding-top:32vh;
         text-decoration:none;
     }
     
+    .closingPages h2 {
+        color: #f2f2e8;
+	font-size:32px;
+    line-height:48px;
+font-family: "henderson-slab-basic", serif;
+font-style: normal;
+	font-weight:600;
+}
+
+
+    
     .closingPages p {
 
         color: #f2f2e8;
+        font-size:16px;
+    line-height:24px;
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
     }
     
     .closingPages p:hover {

@@ -22,10 +22,10 @@ body{
 @media only screen and (max-width:449px) {
     
     .a-wrapper {
-    width: 90vw;
+    width: 80vw;
     padding-top:1vh;
-    margin-left:5vw;
-    margin-right:5vw; 
+    margin-left:10vw;
+    margin-right:10vw; 
     min-height: 75vw;
     }
     
@@ -40,10 +40,10 @@ body{
     }
     
         .wrapper-2 {
-     width: 90vw;
+     width: 80vw;
     padding-top:1vh;
-    margin-left:5vw;
-    margin-right:5vw;
+    margin-left:10vw;
+    margin-right:10vw;
     min-height: 30vh;
     }
     
@@ -62,10 +62,10 @@ body{
 @media only screen and (min-width:450px) {
     
     .a-wrapper {
-    width: 90vw;
+    width: 80vw;
     padding-top:1vh;
-    margin-left:5vw;
-    margin-right:5vw; 
+    margin-left:10vw;
+    margin-right:10vw; 
     min-height: 75vw;
     }
     
@@ -80,10 +80,10 @@ body{
     }
     
         .wrapper-2 {
-     width: 90vw;
+     width: 80vw;
     padding-top:1vh;
-    margin-left:5vw;
-    margin-right:5vw;
+    margin-left:10vw;
+    margin-right:10vw;
     min-height: 30vh;
     }
     
@@ -93,7 +93,7 @@ body{
     
     .carousel-2 img {
     height: auto;
-    width:80vw;
+    width:70vw;
     border-radius: 1vw;   
     }
     
