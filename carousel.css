@@ -34,8 +34,9 @@ body{
     }
     
     .a-carousel img {
-    height: 47vh;
-    width:auto;
+    height: 80vw;
+        object-fit: cover;
+    width:80vw;
     border-radius: 2vw;  
     }
     
@@ -74,8 +75,9 @@ body{
     }
     
     .a-carousel img {
-    height: 47vh;
-    width:auto;
+    height: 80vw;
+    object-fit: cover;
+    width:80vw;
     border-radius: 2vw;  
     }
     
