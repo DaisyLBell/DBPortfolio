@@ -295,11 +295,11 @@ body{
     transition:2s;
 }
 .wrapper i:first-child{
-  left: -4vw;
+  left: -8vw;
   display: none;
 }
 .wrapper i:last-child{
-  right: -4vw;
+  right: -8vw;
 }
 .wrapper .carousel{
   font-size: 0px;
@@ -395,11 +395,11 @@ img {
     cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
 }
 .wrapper-2 i:first-child{
-  left: -4vw;
+  left: -8vw;
   display: none;
 }
 .wrapper-2 i:last-child{
-  right: -4vw;
+  right: -8vw;
 }
 
 .wrapper-2 .carousel-2{
