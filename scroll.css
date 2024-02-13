@@ -2048,11 +2048,11 @@ padding-top:30vh;
 }
 
 .project img {
-    width:20vw;
-    height:20vw;
+    width:25vw;
+    height:22.5vw;
     object-fit: cover;
-    margin-top:2.5vw;
-    margin-left:2.5vw;
+    margin-top:0vw;
+    margin-left:0vw;
 
 }
 
@@ -2488,11 +2488,11 @@ padding-top:32vh;
 }
 
 .project img {
-    width:16vw;
-    height:38vh;
+    width:20vw;
+    height:41vh;
     object-fit: cover;
-    margin-top:3.5vh;
-    margin-left:2vw;
+    margin-top:0vh;
+    margin-left:0vw;
 
 }
 
