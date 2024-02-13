@@ -967,14 +967,14 @@ font-style: normal;
 
 section {
     display:block;
-    scroll-snap-align:start;
-    scroll-snap-stop: always;
+    scroll-snap-align:none;
+    scroll-snap-stop: normal;
 }
 
 section2 {
     display:flex;
-    scroll-snap-align:start;
-    scroll-snap-stop:always;
+    scroll-snap-align:none;
+    scroll-snap-stop:normal;
 }
 
 h1{
@@ -1207,11 +1207,11 @@ padding-top:32vh;
 }
 
 .project img {
-    width:20vw;
-    height:20vw;
+    width:25vw;
+    height:21vw;
     object-fit: cover;
-    margin-top:2.5vw;
-    margin-left:2.5vw;
+    margin-top:0vw;
+    margin-left:0vw;
 
 }
 
@@ -1639,11 +1639,11 @@ padding-top:32vh;
 }
 
 .project img {
-    width:20vw;
-    height:20vw;
+    width:25vw;
+    height:21.5vw;
     object-fit: cover;
-    margin-top:2.5vw;
-    margin-left:2.5vw;
+    margin-top:0vw;
+    margin-left:0vw;
 
 }
 
