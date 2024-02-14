@@ -568,6 +568,7 @@ color:#1b1464;
 /*	color:#1b1464;*/
     z-index:3;
     display:flex;
+/*        overflow:hidden;*/
     }
 
 .project-pages {
@@ -617,7 +618,8 @@ color:#1b1464;
     
         .closing {
         position:absolute;
-        width:100vw;
+        width:80vw;
+            
         height:auto;
         z-index:5;
         padding-top:37vh;
@@ -625,6 +627,7 @@ color:#1b1464;
         padding-bottom:10vh;
         padding-left:10vw;
         display:flex;
+/*            overflow:hidden;*/
     }
     
     .closingPages {
@@ -1311,7 +1314,7 @@ padding-top:36vh;
     
         .closing {
         position:absolute;
-        width:100vw;
+        width:80vw;
         height:auto;
         z-index:5;
         padding-top:37vh;
@@ -1997,7 +2000,7 @@ padding-top:40vh;
 
 .closing {
         position:absolute;
-        width:100vw;
+        width:60vw;
         height:auto;
         z-index:5;
         padding-top:37vh;
@@ -2640,7 +2643,7 @@ font-style: normal;
     
     .closing {
         position:absolute;
-        width:100vw;
+        width:60vw;
         height:auto;
         z-index:5;
         padding-top:37vh;
@@ -3335,7 +3338,7 @@ padding-top:32vh;
     
     .closing {
         position:absolute;
-        width:100vw;
+        width:60vw;
         height:auto;
         z-index:5;
         padding-top:37vh;
