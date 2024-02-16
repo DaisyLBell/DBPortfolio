@@ -356,11 +356,12 @@ padding-top:26vh;
 
 .section6 {
     width:100vw;
-    height:100vh;
+    height:auto;
    background-color:#1b1464;
     z-index:3;
     display:flex;
 }
+    
     
         .closing {
         position:absolute;

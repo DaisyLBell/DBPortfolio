@@ -497,14 +497,18 @@ color:#1b1464;
     width:90vw;
 }
     
+
+    
+    
+    
     
 .section6 {
     width:100vw;
-    height:100vh;
+    height:auto;
    background-color:#f2f2e8;
     z-index:3;
     display:block;
-    margin-top:0vh;
+    margin-top:-4vh;
 }
     
     .section6 h2 {
@@ -512,7 +516,7 @@ color:#1b1464;
     color:#1b1464;
     text-align: left;
     padding-left:10vw;
-    padding-top:20vw;
+    padding-top:20vh;
     }
     
                 .final-top {
@@ -555,6 +559,35 @@ color:#1b1464;
     padding-left:5vw;
     padding-top:1vh;
     object-fit: cover;
+    }
+    
+    
+        .section8 {
+        width:100vw;
+        height:auto;
+        background-color:#f2f2e8;
+        color:#1b1464;
+        margin-top:-4vh;
+        padding-bottom:20vh;
+    }
+    
+    
+    .section8 h2 {
+        width:80vw;
+        text-align:left;
+        padding-left:10vw;
+        padding-top:20vh;
+/*        margin-top:4vh;*/
+    }
+    
+    .section8 li {
+        font-size:14px;
+    line-height:21px;
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
+        padding-left:10vw;
+        padding-right:10vw;
     }
     
     
@@ -1256,6 +1289,35 @@ padding-top:36vh;
     }
     
     
+            .section8 {
+        width:100vw;
+        height:auto;
+        background-color:#f2f2e8;
+        color:#1b1464;
+        margin-top:-4vh;
+        padding-bottom:20vh;
+    }
+    
+    
+    .section8 h2 {
+        width:80vw;
+        text-align:left;
+        padding-left:10vw;
+        padding-top:20vh;
+/*        margin-top:4vh;*/
+    }
+    
+    .section8 li {
+ font-size:14px;
+    line-height:21px;
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
+        padding-left:10vw;
+        padding-right:10vw;
+    }
+    
+    
 
     
     .section7 {
@@ -1890,7 +1952,7 @@ padding-top:40vh;
     
 .section6 {
     width:100vw;
-    height:100vh;
+    height:auto;
    background-color:#f2f2e8;
     z-index:3;
     display:block;
@@ -1945,6 +2007,35 @@ padding-top:40vh;
     padding-left:10vw;
     padding-top:2vh;
     object-fit: cover;
+    }
+    
+    
+                .section8 {
+        width:100vw;
+        height:auto;
+        background-color:#f2f2e8;
+        color:#1b1464;
+        margin-top:-4vh;
+        padding-bottom:20vh;
+    }
+    
+    
+    .section8 h2 {
+        width:80vw;
+        text-align:left;
+        padding-left:10vw;
+        padding-top:20vh;
+/*        margin-top:4vh;*/
+    }
+    
+    .section8 li {
+ font-size:16px;
+    line-height:24px;
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
+        padding-left:10vw;
+        padding-right:10vw;
     }
     
     .section7 {
@@ -2589,6 +2680,35 @@ font-style: normal;
     padding-left:20vw;
     padding-top:2vh;
     object-fit: cover;
+    }
+    
+    
+                    .section8 {
+        width:0vw;
+        height:0vh;
+        background-color:#f2f2e8;
+        color:#1b1464;
+        margin-top:-4vh;
+        padding-bottom:0vh;
+    }
+    
+    
+    .section8 h2 {
+        width:60vw;
+        text-align:left;
+        padding-left:20vw;
+        padding-top:24vh;
+/*        margin-top:4vh;*/
+    }
+    
+    .section8 li {
+ font-size:16px;
+    line-height:24px;
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
+        padding-left:20vw;
+        padding-right:20vw;
     }
   
     
@@ -3284,6 +3404,35 @@ padding-top:32vh;
     padding-left:25vw;
     padding-top:2vh;
     object-fit: cover;
+    }
+    
+    
+                        .section8 {
+        width:0vw;
+        height:0vh;
+        background-color:#f2f2e8;
+        color:#1b1464;
+        margin-top:-4vh;
+        padding-bottom:0vh;
+    }
+    
+    
+    .section8 h2 {
+        width:60vw;
+        text-align:left;
+        padding-left:20vw;
+        padding-top:24vh;
+/*        margin-top:4vh;*/
+    }
+    
+    .section8 li {
+ font-size:16px;
+    line-height:24px;
+	font-family: "acumin-pro-wide", sans-serif;
+font-weight: 400;
+font-style: normal;
+        padding-left:20vw;
+        padding-right:20vw;
     }
     
     .section7 {
