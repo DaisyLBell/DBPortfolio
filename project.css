@@ -209,6 +209,10 @@ font-style: normal;
     width:auto;
     
 }
+    
+#genzine-stickers{
+        margin-left:3.75vw;
+    }
 
 .intro-text {
     display:block;
@@ -934,6 +938,13 @@ padding-top:36vh;
     width:auto;
     
 }
+    
+    
+#genzine-stickers{
+        margin-left:3.75vw;
+    }
+    
+
 .intro-text {
     display:block;
     margin-right:2vw;
@@ -1641,6 +1652,10 @@ padding-top:40vh;
     width:auto;
     
 }
+    
+    #genzine-stickers{
+        margin-left:3vw;
+    }
 
 .intro-text {
     display:block;
@@ -2354,6 +2369,11 @@ font-style: normal;
     width:auto;
     
 }
+    
+
+    #genzine-stickers{
+        margin-left:0vw;
+    }
 
 .intro-text {
     display:block;
@@ -3024,6 +3044,11 @@ font-style: normal;
     width:auto;
     
 }
+    
+    
+#genzine-stickers{
+        margin-left:0vw;
+    }
 
 .intro-text {
     display:block;
