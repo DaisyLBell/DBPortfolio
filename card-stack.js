@@ -64,3 +64,26 @@ childElement.forEach((element, index) => {
         }, 200);
     });
 });
+
+
+let tap = document.querySelector(".tap");
+let otherTap = document.getElementsByClassName(".gallery-item");
+
+
+
+tap.addEventListener("click", function () {
+    
+   let disappear = document.querySelector(".tap");
+    disappear.style.display = "none";
+    
+});
+
+
+otherTap.addEventListener("click", function () {
+    
+    let disappear = document.querySelector(".tap");
+    
+    disappear.style.display = "none";
+    disappear.style.opacity = opacity.toString("0");
+    
+});
