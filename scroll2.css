@@ -270,7 +270,7 @@ width:60vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:8vh;
+        height:4vh;
         align-content:center;
         background-color:#009840;
         color:white;
@@ -282,6 +282,7 @@ width:60vw;
     .gallery-intro-carousel h2 {
         font-family:"carbon";
 /*        overflow-x:hidden;*/
+        padding-bottom:2vh;
     }
     
     
