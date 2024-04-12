@@ -1459,6 +1459,7 @@ width:45vw;
         padding-bottom:1vh;
         padding-top:1vh;
         background-color:#009840;
+        text-wrap:nowrap;
     }
 
 .intro-overlay {
@@ -2035,6 +2036,7 @@ width:50vw;
     .gallery-intro-carousel h2 {
        font-family:"carbon";
         color:white;
+        text-wrap:nowrap;
         
         padding-bottom:1vh;
         padding-top:1vh;
