@@ -176,7 +176,7 @@ font-style: normal;
     display:flex;
     z-index:50;
     width:100vw;
-    height:165vh;
+    height:167vh;
     justify-content: center;
     overflow:hidden;
 }
@@ -252,7 +252,7 @@ width:60vw;
         margin-top:85vh;
         display:block;
         z-index:60;
-        height:65vh;
+        height:70vh;
         width:100vw;
         background-color:white;
         
@@ -403,7 +403,7 @@ padding-top:26vh;
 
 .section1 {
     width:100vw;
-    height:155vh;
+    height:165vh;
 
 }
 .section2 {
@@ -419,6 +419,7 @@ padding-top:26vh;
     background-color:white;
     z-index:3;
     overflow:hidden;
+    padding-right:10vw;
 }
 
 .section4 {
@@ -997,7 +998,7 @@ padding-top:20vh;
 
 }
 .section2 {
-     width:100vw;
+     width:0vw;
     height:0vh;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 192, 203, 0), rgba(27, 20, 100, 0));
     z-index:3;
@@ -1008,7 +1009,9 @@ padding-top:20vh;
     height:100vh;
     background-color:white;
     z-index:3;
+/*    overflow:hidden;*/
     overflow:hidden;
+    padding-right:10vw;
 }
 
 .section4 {
@@ -1571,7 +1574,7 @@ padding-top:32vh;
 
 }
 .section2 {
-     width:100vw;
+     width:0vw;
     height:0vh;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 192, 203, 0), rgba(27, 20, 100, 0));
     z-index:3;
@@ -1583,6 +1586,7 @@ padding-top:32vh;
     background-color:white;
     z-index:3;
     overflow:hidden;
+    padding-right:15vw;
 }
 
 .section4 {
@@ -2152,7 +2156,7 @@ padding-top:32vh;
 
 }
 .section2 {
-     width:100vw;
+     width:0vw;
     height:0vh;
     background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 192, 203, 0), rgba(27, 20, 100, 0));
     z-index:3;
