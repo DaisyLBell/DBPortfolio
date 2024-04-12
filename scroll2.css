@@ -277,12 +277,13 @@ width:60vw;
         overflow:none;
         text-wrap:nowrap;
         overflow:hidden;
-        padding-top:2vh;
-        padding-bottom:2vh;
+        padding-top:3vh;
+        padding-bottom:3vh;
     }
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
+        color:white;
 /*        overflow-x:hidden;*/
 /*        background-color:#009840;*/
         
