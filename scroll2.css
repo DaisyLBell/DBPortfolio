@@ -270,19 +270,22 @@ width:60vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:4vh;
+        height:32px;
         align-content:center;
         background-color:#009840;
         color:white;
         overflow:none;
         text-wrap:nowrap;
         overflow:hidden;
+        padding-top:2vh;
+        padding-bottom:2vh;
     }
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
 /*        overflow-x:hidden;*/
-        padding-bottom:2vh;
+/*        background-color:#009840;*/
+        
     }
     
     
@@ -855,13 +858,15 @@ width:60vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:8vh;
+        height:32px;
         align-content:center;
         background-color:#009840;
         color:white;
         overflow:none;
         text-wrap:nowrap;
-        overflow:hidden;
+        overflow-x:hidden;
+        padding-top:2vh;
+        padding-bottom:2vh;
     }
 
     .gallery-intro-carousel h2 {
@@ -1423,18 +1428,22 @@ width:45vw;
     
     .gallery-intro-carousel {
         width:100vw;
-/*        height:8vw;*/
+        height:32px;
 /*        align-content:center;*/
         background-color:#009840;
         color:white;
         overflow:none;
         text-wrap:nowrap;
+                padding-top:2vh;
+        padding-bottom:2vh;
     }
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
+/*
         padding-top:2vh;
         padding-bottom:2vh;
+*/
     }
 
 .intro-overlay {
@@ -1583,7 +1592,7 @@ padding-top:32vh;
     width:90vw;
     height:auto;
     position:absolute;
-    margin-top:-23vh;
+    margin-top:-20vh;
     margin-left:3vw;
 } 
     
@@ -1915,21 +1924,21 @@ font-style: normal;
     .real-gallery-container {
         width:60vw;
         height:40vh;
-        margin-left:15vw;
-        margin-top:34vh;
+        margin-left:10vw;
+        margin-top:32vh;
         position:absolute;
 
     }
 
 .gallery-item {
-width:40vw;
+width:50vw;
     height:auto;
     object-fit:cover;
     position:absolute;
 }
     
     .gallery-item img {
-        width:40vw;
+        width:50vw;
         height:auto;
     }
 
@@ -1997,7 +2006,9 @@ width:40vw;
     
     .gallery-intro-carousel {
         width:100vw;
-/*        height:8vw;*/
+        height:32px;
+                padding-top:2vh;
+        padding-bottom:2vh;
 /*        align-content:center;*/
         background-color:#009840;
         color:white;
@@ -2007,8 +2018,10 @@ width:40vw;
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
+/*
         padding-top:2vh;
         padding-bottom:2vh;
+*/
     }
     
 .intro-overlay {
@@ -2158,7 +2171,7 @@ padding-top:32vh;
     width:90vw;
     height:auto;
     position:absolute;
-    margin-top:-35vh;
+    margin-top:-22vh;
     margin-left:3vw;
 } 
     
