@@ -362,7 +362,7 @@ body{
   border-radius: 50%;
   transform: translateY(-50%);
   transition: transform 0.1s linear;
-    box-shadow: 0 3px 6px #c3c3bb;
+    box-shadow: 0 3px 6px rgba(195, 195, 187, 0.5);
 }
 .wrapper i:active{
   transform: translateY(-50%) scale(0.9);
@@ -370,11 +370,13 @@ body{
 .wrapper i:hover{
 /*  background: #f2f2f2;*/
     cursor: url('./pointer2.svg') 4 4, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
-    background-color:#f6e3da;
-    box-shadow:5px 5px 15px #c3c3bb;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
+    color:white;
+    background-color:#015f29;
+    box-shadow:5px 5px 15px rgba(195, 195, 187, 0.49);
     transition:2s;
 }
+
 
 .wrapper .carousel{
   font-size: 0px;
@@ -457,17 +459,18 @@ img {
   border-radius: 50%;
   transform: translateY(-50%);
   transition: transform 0.1s linear;
-    box-shadow: 0 3px 6px #c3c3bb;
+    box-shadow: 0 3px 6px rgba(195, 195, 187, 0.48);
 }
 .wrapper-2 i:active{
   transform: translateY(-50%) scale(0.9);
 }
 .wrapper-2 i:hover{
-  background-color:#f6e3da;
-    box-shadow:5px 5px 15px #c3c3bb;
+  background-color:#015f29;
+    color:white;
+    box-shadow:5px 5px 15px rgba(195, 195, 187, 0.48);
     transition:2s;
     cursor: url('./pointer2.svg') 4 4, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
 }
 
 

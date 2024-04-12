@@ -158,8 +158,8 @@ font-style: normal;
 }
 
 p {
-    font-size:14px;
-    line-height:21px;
+    font-size:16px;
+    line-height:28px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -189,7 +189,7 @@ font-style: normal;
     width:80vw;
     margin-left:0vw;
 /*    height:50vh;*/
-    margin-top:35vh;
+    margin-top:30vh;
     z-index:2;
     display:flex;
     justify-content:center;
@@ -197,9 +197,9 @@ font-style: normal;
 
 .new-home-bg img {
     width:80vw;
-    height:70vh;
+    height:55vh;
     object-fit: cover;
-    margin-left:-2vw;
+    margin-left:0vw;
     border:solid 15px white;
     border-radius:15px;
 /*    object-position: center 200%;*/
@@ -209,7 +209,7 @@ font-style: normal;
     position:absolute;
     width:18vw;
     margin-left:50vw;
-    margin-top:97vh;
+    margin-top:77vh;
       display:flex;
     z-index:3;
 }
@@ -220,7 +220,7 @@ font-style: normal;
 }
     
                     #wdc-logo{
-        margin-top:100vh;
+        margin-top:75vh;
         margin-left:56vw;
     }
     
@@ -650,7 +650,7 @@ color:#009840;
         background-color:white;
         color:#009840;
         margin-top:-4vh;
-        padding-bottom:20vh;
+        padding-bottom:-40vh;
     }
     
     
@@ -761,7 +761,7 @@ font-style: normal;
     
     .closingPages h2 {
         
-        	font-size:20px;
+        	font-size:7vw;
     line-height:20px;
 	font-family: "carbon", serif;
 font-weight: 600;
@@ -769,8 +769,8 @@ font-style: normal;
 }
     
    .closingPages p {
-    font-size:14px;
-    line-height:14px;
+    font-size:16px;
+    line-height:18px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -802,13 +802,14 @@ font-style: normal;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:10vw;
-    width:40vw;
+    margin-left:-10vw;
+    font-size:12px;
+    width:80vw;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:84vh;
+    margin-top:93vh;
 }
     
 }
@@ -965,8 +966,8 @@ font-style: normal;
 }
 
 p {
- font-size:14px;
-    line-height:21px;
+ font-size:16px;
+    line-height:28px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -1002,7 +1003,7 @@ font-style: normal;
 
 .new-home-bg img {
     width:80vw;
-    height:60vh;
+    height:55vh;
     object-fit: cover;
     margin-left:-2vw;
     border:solid 15px white;
@@ -1014,7 +1015,7 @@ font-style: normal;
     position:absolute;
     width:15vw;
     margin-left:56vw;
-    margin-top:102vh;
+    margin-top:97vh;
       display:flex;
     z-index:3;
 }
@@ -1026,7 +1027,7 @@ font-style: normal;
     
     
                 #wdc-logo{
-        margin-top:100vh;
+        margin-top:95vh;
         margin-left:56vw;
     }
     
@@ -1460,8 +1461,8 @@ padding-top:36vh;
         height:auto;
         background-color:white;
         color:#009840;
-        margin-top:-4vh;
-        padding-bottom:20vh;
+        margin-top:-15vh;
+        padding-bottom:-60vh;
     }
     
     
@@ -1599,13 +1600,14 @@ font-style: normal;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:10vw;
-    width:40vw;
+    margin-left:-10vw;
+    width:80vw;
+    font-size:12px;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:89vh;
+    margin-top:93vh;
 }
     
 }
@@ -1762,8 +1764,8 @@ font-style: normal;
 }
 
 p {
-    font-size:16px;
-    line-height:24px;
+    font-size:18px;
+    line-height:30px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -2266,7 +2268,7 @@ padding-top:40vh;
         background-color:white;
         color:#009840;
         margin-top:-4vh;
-        padding-bottom:20vh;
+        padding-bottom:-50vh;
     }
     
     
@@ -2341,13 +2343,13 @@ font-style: normal;
 
 .closing {
         position:absolute;
-        width:60vw;
+        width:90vw;
         height:auto;
         z-index:5;
-        padding-top:37vh;
-        padding-right:20vw;
+        padding-top:30vh;
+        padding-right:10vw;
         padding-bottom:20vh;
-        padding-left:20vw;
+        padding-left:10vw;
         display:flex;
     }
     
@@ -2355,7 +2357,7 @@ font-style: normal;
         display:block;
         color:#009840;
         text-align:left;
-        margin-right:7vw;
+        margin-right:10vw;
         text-decoration:none;
     }
     
@@ -2398,13 +2400,14 @@ font-style: normal;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:13vw;
-    width:34vw;
+    margin-left:-10vw;
+    font-size:14px;
+    width:80vw;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:88vh;
+    margin-top:93vh;
 }
     
 }
@@ -2899,7 +2902,7 @@ font-style: normal;
 .section5 {
     width:100vw;
     height:100vh;
-    background-color:#db9cba;
+    background-color:white;
     z-index:3;
 /*    justify-content: center;*/
 /*    justify-items:center;*/
@@ -2909,7 +2912,7 @@ font-style: normal;
 
 .section5 h2 {
     width:60vw;
-    color:white;
+    color:#009840;
     text-align: left;
     padding-left:20vw;
     padding-top:15vh;
@@ -2917,7 +2920,7 @@ font-style: normal;
     
     .section5 p {
         width:60vw;
-        color:white;
+        color:#009840;
         padding-left:20vw;
         padding-top:2vh;
         text-align: left;
@@ -2960,7 +2963,7 @@ font-style: normal;
 .section6 {
     width:100vw;
     height:100vh;
-   background-color:white;
+   background-color:#009840;
     z-index:3;
     display:block;
     margin-top:-3.25vh;
@@ -2968,7 +2971,7 @@ font-style: normal;
     
     .section6 h2 {
         width:50vw;
-    color:#009840;
+    color:white;
     text-align: left;
     padding-left:20vw;
     padding-top:18.25vh;
@@ -3031,7 +3034,7 @@ font-style: normal;
         width:60vw;
         text-align:left;
         padding-left:20vw;
-        padding-top:29vh;
+        padding-top:32.5vh;
 /*        margin-top:4vh;*/
     }
     
@@ -3154,13 +3157,13 @@ font-style: normal;
 .footer-right p {
     color:white;
     margin-top:20vh;
-    margin-left:19vw;
-    width:24vw;
+    margin-left:-10vw;
+    width:80vw;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:92vh;
+    margin-top:93vh;
 }
 }
 
@@ -3701,7 +3704,7 @@ padding-top:32vh;
 .section5 {
     width:100vw;
     height:100vh;
-    background-color:#db9cba;
+    background-color:white;
     z-index:3;
 /*    justify-content: center;*/
 /*    justify-items:center;*/
@@ -3711,7 +3714,7 @@ padding-top:32vh;
 
 .section5 h2 {
     width:30vw;
-    color:white;
+    color:#009840;
     text-align: left;
     padding-left:20vw;
     padding-top:15vh;
@@ -3719,7 +3722,7 @@ padding-top:32vh;
     
     .section5 p {
         width:40vw;
-        color:white;
+        color:#009840;
         padding-left:20vw;
         padding-top:2vh;
         text-align: left;
@@ -3768,7 +3771,7 @@ padding-top:32vh;
 .section6 {
     width:100vw;
     height:100vh;
-   background-color:white;
+   background-color:#009840;
     z-index:3;
     display:block;
     margin-top:-3.25vh;
@@ -3776,7 +3779,7 @@ padding-top:32vh;
     
     .section6 h2 {
         width:100vw;
-    color:#009840;
+    color:white;
     text-align: left;
     padding-left:20vw;
     padding-top:18.25vh;
@@ -3841,7 +3844,7 @@ padding-top:32vh;
         width:60vw;
         text-align:left;
         padding-left:20vw;
-        padding-top:28vh;
+        padding-top:32.5vh;
 /*        margin-top:4vh;*/
     }
     
@@ -3964,13 +3967,13 @@ font-style: normal;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:17vw;
-    width:24vw;
+    margin-left:-10vw;
+    width:80vw;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:92vh;
+    margin-top:93vh;
 }
 }
 

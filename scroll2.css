@@ -156,8 +156,8 @@ font-style: normal;
 }
 
 p {
-    font-size:14px;
-    line-height:21px;
+    font-size:16px;
+    line-height:28px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -176,22 +176,23 @@ font-style: normal;
     display:flex;
     z-index:50;
     width:100vw;
-    height:50vh;
+    height:165vh;
     justify-content: center;
+    overflow:hidden;
 }
 
     .real-gallery-container {
         width:60vw;
         height:80vh;
         margin-left:0vw;
-        margin-top:30vh;
+        margin-top:28vh;
         position:absolute;
 
     }
 
 .gallery-item {
 width:60vw;
-    height:40vh;
+    height:auto;
     object-fit:cover;
     position:absolute;
 }
@@ -221,7 +222,7 @@ width:60vw;
     }
     
     .gallery-item:nth-child(2) {
-        transform:rotate(328deg);
+        transform:rotate(65deg);
     }
     
     
@@ -463,9 +464,9 @@ padding-top:26vh;
 .project {
     background-color:white;
     box-shadow:5px 5px 10px #c3c3bb;
-    width:25vw;
-    height:25vh;
-    margin:1vw;
+    width:24vw;
+    height:22vh;
+    margin:2vw;
     display:block;
     align-content: center;
     align-items:center;
@@ -476,14 +477,14 @@ padding-top:26vh;
         cursor: url('./new-pointer.svg') 16 16, pointer;
     cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     
-    background-color:#f0bca4;
+    background-color:#bdffd9;
     box-shadow:5px 5px 15px #c3c3bb;
     transition:2s;
 }
 
 .project img {
-    width:25vw;
-    height:18vh;
+    width:24vw;
+    height:15vh;
     object-fit: cover;
     margin-top:0vw;
     margin-left:0vw;
@@ -494,10 +495,12 @@ padding-top:26vh;
     text-align:center;
     color: #009840;
     margin-top:2vw;
+/*
     margin-left:1vw;
     margin-right:1vw;
-    font-size:14px;
-    line-height:18px;
+*/
+    font-size:16px;
+    line-height:20px;
 }
 
 .section6 {
@@ -537,7 +540,7 @@ padding-top:26vh;
     
     .closingPages h2 {
         
-        	font-size:20px;
+        	font-size:7vw;
     line-height:20px;
 	font-family: "carbon", serif;
 font-weight: 600;
@@ -545,8 +548,8 @@ font-style: normal;
 }
     
    .closingPages p {
-    font-size:14px;
-    line-height:14px;
+    font-size:16px;
+    line-height:18px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -578,13 +581,14 @@ font-style: normal;
 .footer-right p {
     color: White;
     margin-top:20vh;
-    margin-left:10vw;
-    width:40vw;
+    margin-left:-10vw;
+    width:80vw;
+    font-size:12px;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:80vh;
+    margin-top:93vh;
 }
     
 }
@@ -741,8 +745,8 @@ font-style: normal;
 }
 
 p {
-    font-size:16px;
-    line-height:24px;
+    font-size:18px;
+    line-height:30px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -760,22 +764,23 @@ font-style: normal;
     display:flex;
     z-index:50;
     width:100vw;
-    height:50vh;
+    height:165vh;
     justify-content: center;
+    overflow:hidden;
 }
 
     .real-gallery-container {
         width:60vw;
         height:80vh;
         margin-left:0vw;
-        margin-top:33vh;
+        margin-top:30vh;
         position:absolute;
 
     }
 
 .gallery-item {
 width:60vw;
-    height:40vh;
+    height:auto;
     object-fit:cover;
     position:absolute;
 }
@@ -831,7 +836,7 @@ width:60vw;
         margin-top:90vh;
         display:block;
         z-index:60;
-        height:54vh;
+        height:60vh;
         width:100vw;
         background-color:white;
         
@@ -969,7 +974,7 @@ padding-top:20vh;
 
 .section1 {
     width:100vw;
-    height:144vh;
+    height:148.15vh;
 
 }
 .section2 {
@@ -1039,9 +1044,9 @@ padding-top:20vh;
 .project {
     background-color:white;
     box-shadow:5px 5px 10px #c3c3bb;
-    width:25vw;
-    height:26vh;
-    margin:1vw;
+    width:24vw;
+    height:24vh;
+    margin:2vw;
     display:block;
     align-content: center;
     align-items:center;
@@ -1052,14 +1057,14 @@ padding-top:20vh;
        cursor: url('./new-pointer.svg') 16 16, pointer;
     cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     
-    background-color:#f0bca4;
+    background-color:#bdffd9;
     box-shadow:5px 5px 15px #c3c3bb;
     transition:2s;
 }
 
 .project img {
-    width:25vw;
-    height:17vh;
+    width:24vw;
+    height:15vh;
     object-fit: cover;
     margin-top:0vw;
     margin-left:0vw;
@@ -1069,9 +1074,11 @@ padding-top:20vh;
 .project p {
     text-align:center;
     color: #009840;
-    margin-top:2vw;
+    margin-top:1vw;
+/*
     margin-left:2.5vw;
     margin-right:2.5vw;
+*/
 }
 
 .section6 {
@@ -1088,7 +1095,7 @@ padding-top:20vh;
         width:80vw;
         height:auto;
         z-index:5;
-        padding-top:37vh;
+        padding-top:30vh;
         padding-right:10vw;
         padding-bottom:10vh;
         padding-left:10vw;
@@ -1105,6 +1112,7 @@ padding-top:20vh;
     
     .closingPages h2 {
         font-family:"carbon";
+        font-size:6vw;
 
         color: #009840;
     }
@@ -1144,13 +1152,14 @@ padding-top:20vh;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:10vw;
-    width:40vw;
+    margin-left:-10vw;
+    width:80vw;
+    font-size:12px;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:89vh;
+    margin-top:93vh;
 }
     
 }
@@ -1303,8 +1312,8 @@ font-style: normal;
 }
 
 p {
-    font-size:16px;
-    line-height:24px;
+    font-size:18px;
+    line-height:30px;
 	font-family:"acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -1322,29 +1331,30 @@ font-style: normal;
     display:flex;
     z-index:50;
     width:100vw;
-    height:50vh;
+    height:165vh;
     justify-content: center;
+    overflow:hidden;
 }
 
     .real-gallery-container {
         width:60vw;
         height:40vh;
-        margin-left:5vw;
+        margin-left:12vw;
         margin-top:32vh;
         position:absolute;
 
     }
 
 .gallery-item {
-width:60vw;
-    height:50vh;
+width:45vw;
+    height:auto;
     object-fit:cover;
     position:absolute;
 }
     
     .gallery-item img {
-        width:auto;
-        height:40vh;
+        width:45vw;
+        height:auto;
     }
 
     
@@ -1364,7 +1374,7 @@ width:60vw;
     }
     
     .gallery-item:nth-child(2) {
-        transform:rotate(328deg);
+        transform:rotate(65deg);
     }
     
     
@@ -1394,7 +1404,7 @@ width:60vw;
         margin-top:100vh;
         display:block;
         z-index:60;
-        height:45vh;
+        height:50vh;
         width:100vw;
         background-color:white;
         
@@ -1412,8 +1422,8 @@ width:60vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:8vw;
-        align-content:center;
+/*        height:8vw;*/
+/*        align-content:center;*/
         background-color:#009840;
         color:white;
         overflow:none;
@@ -1422,6 +1432,8 @@ width:60vw;
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
+        padding-top:2vh;
+        padding-bottom:2vh;
     }
 
 .intro-overlay {
@@ -1529,7 +1541,7 @@ padding-top:32vh;
 
 .section1 {
     width:100vw;
-    height:150vh;
+    height:154vh;
 
 }
 .section2 {
@@ -1563,14 +1575,14 @@ padding-top:32vh;
     position:inherit;
     width:70vw;
 /*    padding-left:15vw;*/
-    padding-top:25vh;
+    padding-top:20vh;
 }
 
 #section4-img {
     width:90vw;
     height:auto;
     position:absolute;
-    margin-top:-18vh;
+    margin-top:-23vh;
     margin-left:3vw;
 } 
     
@@ -1614,9 +1626,9 @@ padding-top:32vh;
 .project {
     background-color:white;
     box-shadow:5px 5px 10px #c3c3bb;
-    width:25vw;
+    width:24vw;
     height:30vw;
-    margin:1vw;
+    margin:2vw;
     display:block;
     align-content: center;
     align-items:center;
@@ -1627,13 +1639,14 @@ padding-top:32vh;
         cursor: url('./new-pointer.svg') 16 16, pointer;
     cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     
-    background-color:#f0bca4;
+    background-color:#bdffd9;
+/*    color:white;*/
     box-shadow:5px 5px 15px #c3c3bb;
     transition:2s;
 }
 
 .project img {
-    width:25vw;
+    width:24vw;
     height:21vw;
     object-fit: cover;
     margin-top:0vw;
@@ -1644,7 +1657,7 @@ padding-top:32vh;
 .project p {
     text-align:center;
     color: #009840;
-    margin-top:1.25vw;
+    margin-top:0.25vw;
 }
 
 .section6 {
@@ -1660,7 +1673,7 @@ padding-top:32vh;
         width:60vw;
         height:auto;
         z-index:5;
-        padding-top:37vh;
+        padding-top:30vh;
         padding-right:20vw;
         padding-bottom:20vh;
         padding-left:20vw;
@@ -1678,6 +1691,10 @@ padding-top:32vh;
         .closingPages p {
 
         color: #009840;
+    }
+    
+    .closingPages h2 {
+        font-size:5.5vw;
     }
     
     .closingPages p:hover {
@@ -1709,14 +1726,15 @@ padding-top:32vh;
 
 .footer-right p {
     color: white;
-    margin-top:20vh;
-    margin-left:13vw;
-    width:34vw;
+    margin-top:25vh;
+    margin-left:-10vw;
+    width:80vw;
+    font-size:14px;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:88vh;
+    margin-top:93vh;
 }
     
 }
@@ -1869,8 +1887,8 @@ font-style: normal;
 }
 
 p {
-    font-size:16px;
-    line-height:24px;
+    font-size:18px;
+    line-height:30px;
 	font-family: "acumin-pro-wide", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -1888,29 +1906,30 @@ font-style: normal;
     display:flex;
     z-index:50;
     width:100vw;
-    height:50vh;
+    height:165vh;
     justify-content: center;
+    overflow:hidden;
 }
 
     .real-gallery-container {
         width:60vw;
         height:40vh;
-        margin-left:5vw;
-        margin-top:37vh;
+        margin-left:15vw;
+        margin-top:34vh;
         position:absolute;
 
     }
 
 .gallery-item {
-width:60vw;
-    height:40vh;
+width:40vw;
+    height:auto;
     object-fit:cover;
     position:absolute;
 }
     
     .gallery-item img {
-        width:auto;
-        height:40vh;
+        width:40vw;
+        height:auto;
     }
 
     
@@ -1930,7 +1949,7 @@ width:60vw;
     }
     
     .gallery-item:nth-child(2) {
-        transform:rotate(328deg);
+        transform:rotate(65deg);
     }
     
     
@@ -1959,7 +1978,7 @@ width:60vw;
         margin-top:110vh;
         display:block;
         z-index:60;
-        height:45vh;
+        height:50vh;
         width:100vw;
         background-color:white;
         
@@ -1977,8 +1996,8 @@ width:60vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:8vw;
-        align-content:center;
+/*        height:8vw;*/
+/*        align-content:center;*/
         background-color:#009840;
         color:white;
         overflow:none;
@@ -1987,6 +2006,8 @@ width:60vw;
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
+        padding-top:2vh;
+        padding-bottom:2vh;
     }
     
 .intro-overlay {
@@ -2094,7 +2115,7 @@ padding-top:32vh;
 
 .section1 {
     width:100vw;
-    height:160vh;
+    height:161vh;
 
 }
 .section2 {
@@ -2136,7 +2157,7 @@ padding-top:32vh;
     width:90vw;
     height:auto;
     position:absolute;
-    margin-top:-17vh;
+    margin-top:-35vh;
     margin-left:3vw;
 } 
     
@@ -2226,7 +2247,7 @@ padding-top:32vh;
         width:60vw;
         height:auto;
         z-index:5;
-        padding-top:37vh;
+        padding-top:30vh;
         padding-right:20vw;
         padding-bottom:20vh;
         padding-left:20vw;
@@ -2244,6 +2265,10 @@ padding-top:32vh;
         .closingPages p {
 
         color: #009840;
+    }
+    
+    .closingPages h2 {
+        font-size:4.5vw;
     }
     
     .closingPages p:hover {
@@ -2276,13 +2301,14 @@ padding-top:32vh;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:13vw;
-    width:34vw;
+    margin-left:-10vw;
+    width:80vw;
+    font-size:14px;
     text-align:center;
 }
 
 .sign-off {
-    margin-top:88vh;
+    margin-top:93vh;
 }
     
 }
@@ -2451,9 +2477,10 @@ font-style: normal;
     position:absolute;
     display:flex;
 /*    z-index:50;*/
-    width:60vw;
-    height:50vh;
-    margin-left:20vw;
+    width:80vw;
+    height:160vh;
+    margin-left:12vw;
+    overflow:hidden;
 }
 
     .real-gallery-container {
@@ -2712,7 +2739,7 @@ padding-top:30vh;
         cursor: url('./new-pointer.svg') 16 16, pointer;
     cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     
-    background-color:#f0bca4;
+    background-color:#bdffd9;
     box-shadow:5px 5px 15px #c3c3bb;
     transition:2s;
 }
@@ -2795,8 +2822,8 @@ padding-top:30vh;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:19vw;
-    width:24vw;
+    margin-left:-10vw;
+    width:80vw;
     text-align:center;
 }
 
@@ -2983,9 +3010,11 @@ font-style: normal;
     position:absolute;
     display:flex;
 /*    z-index:50;*/
-    width:50vw;
-    height:50vh;
+    width:100vw;
+    height:100vh;
+    margin-left:-5vw;
 /*    padding-left:20vw;*/
+        overflow:hidden;
 }
     
     .real-gallery-container {
@@ -2998,7 +3027,7 @@ font-style: normal;
     }
 
 .gallery-item {
-width:30vw;
+width:auto;
     height:40vh;
     object-fit:cover;
     position:absolute;
@@ -3035,7 +3064,7 @@ width:30vw;
     }
     
     .gallery-item:nth-child(2) {
-        transform:rotate(328deg);
+        transform:rotate(65deg);
     }
     
     
@@ -3213,7 +3242,7 @@ padding-top:27vh;
     height:110vh;
     position:absolute;
     margin-top:-35vh;
-    margin-left:14vw;
+    margin-left:17vw;
 } 
     
     
@@ -3284,7 +3313,7 @@ padding-top:27vh;
        cursor: url('./new-pointer.svg') 16 16, pointer;
     cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     
-    background-color:#f0bca4;
+    background-color:#bdffd9;
     box-shadow:5px 5px 15px #c3c3bb;
     transition:2s;
 }
@@ -3384,8 +3413,9 @@ font-style: normal;
 .footer-right p {
     color: white;
     margin-top:20vh;
-    margin-left:17vw;
-    width:24vw;
+    margin-left:-10vw;
+    font-size:14px;
+    width:80vw;
     text-align:center;
 }
 

@@ -1,6 +1,6 @@
 let childElement = document.querySelectorAll(".gallery-item");
 
-let imageURLs = ["carousel-2.jpg", "gd-renaissance-header.jpg", "Playlist-SQUARE.jpg", "WDC-12-compressed.jpg"];
+let imageURLs = ["WDC-12-compressed.jpg",  "gd-renaissance-header.jpg",  "Playlist-SQUARE.jpg", "carousel-2.jpg"];
 
 let zIndex = 1;
 
@@ -60,7 +60,7 @@ childElement.forEach((element, index) => {
             
             setTimeout(() => {
                 element.style.transition = "";
-            }, 700);
-        }, 1000);
+            }, 1000);
+        }, 200);
     });
 });
