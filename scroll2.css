@@ -865,20 +865,24 @@ width:60vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:32px;
+/*        height:32px;*/
         align-content:center;
         background-color:#009840;
         color:white;
-        overflow:none;
+/*        overflow:none;*/
         text-wrap:nowrap;
         overflow-x:hidden;
-        padding-top:2vh;
-        padding-bottom:2vh;
+/*        padding-top:2vh;*/
+/*        padding-bottom:2vh;*/
     }
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
-/*        overflow-x:hidden;*/
+        color:white;
+        
+        padding-bottom:1vh;
+        padding-top:1vh;
+        background-color:#009840;
     }
     
 
@@ -1435,22 +1439,23 @@ width:45vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:32px;
+/*        height:32px;*/
 /*        align-content:center;*/
         background-color:#009840;
         color:white;
-        overflow:none;
+        overflow:hidden;
         text-wrap:nowrap;
-                padding-top:2vh;
-        padding-bottom:2vh;
+/*                padding-top:2vh;*/
+/*        padding-bottom:2vh;*/
     }
 
     .gallery-intro-carousel h2 {
         font-family:"carbon";
-/*
-        padding-top:2vh;
-        padding-bottom:2vh;
-*/
+        color:white;
+        
+        padding-bottom:1vh;
+        padding-top:1vh;
+        background-color:#009840;
     }
 
 .intro-overlay {
@@ -2013,22 +2018,23 @@ width:50vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:32px;
-                padding-top:2vh;
-        padding-bottom:2vh;
+/*        height:32px;*/
+/*                padding-top:2vh;*/
+/*        padding-bottom:2vh;*/
 /*        align-content:center;*/
         background-color:#009840;
         color:white;
-        overflow:none;
+        overflow:hidden;
         text-wrap:nowrap;
     }
 
     .gallery-intro-carousel h2 {
-        font-family:"carbon";
-/*
-        padding-top:2vh;
-        padding-bottom:2vh;
-*/
+       font-family:"carbon";
+        color:white;
+        
+        padding-bottom:1vh;
+        padding-top:1vh;
+        background-color:#009840;
     }
     
 .intro-overlay {
