@@ -67,7 +67,7 @@ nav:hover {
         margin-top:8vh;
         text-align:center;
 /*        position:ab; */
-        z-index:90;
+        z-index:50;
         color:#009840;
         position:absolute;
         width:100vw;
