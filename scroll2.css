@@ -496,7 +496,7 @@ padding-top:26vh;
     background-color:white;
     box-shadow:5px 5px 10px #c3c3bb;
     width:24vw;
-    height:23vh;
+    height:20vh;
     margin:2vw;
     display:block;
     align-content: center;
@@ -515,7 +515,7 @@ padding-top:26vh;
 
 .project img {
     width:24vw;
-    height:15vh;
+    height:14vh;
     object-fit: cover;
     margin-top:0vw;
     margin-left:0vw;
@@ -525,13 +525,11 @@ padding-top:26vh;
 .project p {
     text-align:center;
     color: #009840;
-    margin-top:1vw;
-/*
-    margin-left:1vw;
-    margin-right:1vw;
-*/
-    font-size:16px;
-    line-height:20px;
+    margin-top:1.5vw;
+    margin-left:1.5vw;
+    margin-right:1.5vw;
+    font-size:12px;
+    line-height:14px;
 }
 
 .section6 {
@@ -1110,7 +1108,7 @@ padding-top:20vh;
     background-color:white;
     box-shadow:5px 5px 10px #c3c3bb;
     width:24vw;
-    height:24vh;
+    height:20vh;
     margin:2vw;
     display:block;
     align-content: center;
@@ -1129,7 +1127,7 @@ padding-top:20vh;
 
 .project img {
     width:24vw;
-    height:15vh;
+    height:14vh;
     object-fit: cover;
     margin-top:0vw;
     margin-left:0vw;
@@ -1140,10 +1138,10 @@ padding-top:20vh;
     text-align:center;
     color: #009840;
     margin-top:1vw;
-/*
     margin-left:2.5vw;
     margin-right:2.5vw;
-*/
+    font-size:14px;
+    line-height:16px;
 }
 
 .section6 {
@@ -1732,7 +1730,7 @@ padding-top:32vh;
     background-color:white;
     box-shadow:5px 5px 10px #c3c3bb;
     width:24vw;
-    height:30vw;
+    height:28vw;
     margin:2vw;
     display:block;
     align-content: center;
@@ -1754,7 +1752,7 @@ padding-top:32vh;
     width:24vw;
     height:21vw;
     object-fit: cover;
-    margin-top:0vw;
+    margin-top:-1vw;
     margin-left:0vw;
 
 }
@@ -1762,7 +1760,8 @@ padding-top:32vh;
 .project p {
     text-align:center;
     color: #009840;
-    margin-top:0.25vw;
+    margin-top:1.5vh;
+    font-size:16px;
 }
 
 .section6 {
@@ -2338,7 +2337,7 @@ padding-top:32vh;
     background-color:white;
     box-shadow:5px 5px 10px #c3c3bb;
     width:25vw;
-    height:30vw;
+    height:29vw;
     margin:1vw;
     display:block;
     align-content: center;
@@ -2350,7 +2349,7 @@ padding-top:32vh;
         cursor: url('./new-pointer.svg') 16 16, pointer;
     cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     
-    background-color:#f0bca4;
+    background-color:#bdffd9;
     box-shadow:5px 5px 15px #c3c3bb;
     transition:2s;
 }
@@ -2359,7 +2358,7 @@ padding-top:32vh;
     width:25vw;
     height:21.5vw;
     object-fit: cover;
-    margin-top:0vw;
+    margin-top:-2vw;
     margin-left:0vw;
 
 }
@@ -2367,7 +2366,7 @@ padding-top:32vh;
 .project p {
     text-align:center;
     color: #009840;
-    margin-top:1.25vw;
+    margin-top:2.5vw;
 }
 
 .section6 {
