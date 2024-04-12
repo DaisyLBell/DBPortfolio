@@ -270,8 +270,8 @@ width:60vw;
     
     .gallery-intro-carousel {
         width:100vw;
-        height:32px;
-/*        align-content:center;*/
+/*        height:4vh;*/
+        align-items:center;
         background-color:#009840;
         color:white;
 /*        overflow:none;*/
@@ -287,8 +287,9 @@ width:60vw;
         font-family:"carbon";
         color:white;
         
-        padding-bottom:2vh;
-        padding-top:2vh;
+        padding-bottom:1vh;
+        padding-top:1vh;
+        background-color:#009840;
 /*        overflow-x:hidden;*/
 /*        background-color:#009840;*/
         
