@@ -271,13 +271,13 @@ width:60vw;
     .gallery-intro-carousel {
         width:100vw;
         height:32px;
-        align-content:center;
+/*        align-content:center;*/
         background-color:#009840;
         color:white;
-        overflow:none;
+/*        overflow:none;*/
         text-wrap:nowrap;
         overflow:hidden;
-        padding-top:0vh;
+        padding-top:-2vh;
         padding-bottom:3vh;
     }
 
