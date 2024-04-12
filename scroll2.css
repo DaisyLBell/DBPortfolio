@@ -412,6 +412,7 @@ padding-top:26vh;
     .sticky1 h2 {
         font-size:7vw;
         line-height:10vw;
+        width:80vw;
     }
 
 .sticky2 {
@@ -421,7 +422,7 @@ padding-top:26vh;
 
 .section1 {
     width:100vw;
-    height:157vh;
+    height:155vh;
 
 }
 .section2 {
@@ -437,7 +438,7 @@ padding-top:26vh;
     background-color:white;
     z-index:3;
     overflow:hidden;
-    padding-right:10vw;
+    padding-right:0vw;
 }
 
 .section4 {
@@ -1026,6 +1027,7 @@ padding-top:20vh;
     .sticky1 h2 {
         font-size:7vw;
         line-height:10vw;
+        width:80vw;
     }
 
 .sticky2 {
@@ -1052,7 +1054,7 @@ padding-top:20vh;
     z-index:3;
 /*    overflow:hidden;*/
     overflow:hidden;
-    padding-right:10vw;
+    padding-right:0vw;
 }
 
 .section4 {
@@ -1621,15 +1623,19 @@ width:45vw;
 
 
 .sticky1 {
-padding-left:15vw;
+margin-left:0vw;
 padding-top:32vh;
     color:#009840;
+    width:80vw;
+    
     
 }
 	
 	    .sticky1 h2 {
         font-size:36px;
         line-height:48px;
+        width:70vw;
+            overflow:hidden;
     }
 
 .sticky2 {
@@ -1639,7 +1645,7 @@ padding-top:32vh;
 
 .section1 {
     width:100vw;
-    height:165vh;
+    height:160vh;
 
 }
 .section2 {
@@ -1655,7 +1661,7 @@ padding-top:32vh;
     background-color:white;
     z-index:3;
     overflow:hidden;
-    padding-right:15vw;
+    padding-right:0vw;
 }
 
 .section4 {
@@ -2235,6 +2241,7 @@ padding-top:32vh;
 	    .sticky1 h2 {
         font-size:36px;
         line-height:48px;
+            width:70vw;
     }
 
 .sticky2 {
@@ -2244,7 +2251,7 @@ padding-top:32vh;
 
 .section1 {
     width:100vw;
-    height:173vh;
+    height:170vh;
 
 }
 .section2 {
@@ -2260,7 +2267,7 @@ padding-top:32vh;
     background-color:white;
     z-index:3;
     overflow:hidden;
-    padding-right:15vw;
+    padding-right:0vw;
 }
 
 .section4 {
