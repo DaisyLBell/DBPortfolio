@@ -10,8 +10,8 @@
     }
     
     .nav-logo img:hover {
-        cursor: url('./pointer2.svg') 16 16, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     }
     
     .nav-logo img {
@@ -152,8 +152,8 @@ button {
     }
     
     .nav-logo img:hover {
-        cursor: url('./pointer2.svg') 16 16, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     }
     
     .nav-logo img {
@@ -290,8 +290,8 @@ button {
     }
     
     .nav-logo img:hover {
-        cursor: url('./pointer2.svg') 16 16, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     }
     
     .nav-logo img {
@@ -431,8 +431,8 @@ button {
     }
     
     .nav-logo img:hover {
-        cursor: url('./pointer2.svg') 16 16, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     }
     
     .nav-logo img {
@@ -570,8 +570,8 @@ button {
     }
     
     .nav-logo img:hover {
-        cursor: url('./pointer2.svg') 16 16, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     }
     
     .nav-logo img {
@@ -709,8 +709,8 @@ button {
     }
     
     .nav-logo img:hover {
-        cursor: url('./pointer2.svg') 16 16, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     }
     
     .nav-logo img {
@@ -849,8 +849,8 @@ button {
     }
     
     .nav-logo img:hover {
-        cursor: url('./pointer2.svg') 16 16, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     }
     
     .nav-logo img {
@@ -1002,9 +1002,9 @@ body {
     overflow:hidden;
     position:fixed;
     
-    
-     cursor: url('./cursor.svg') 16 16, auto;
-    cursor: -webkit-image-set(url('./cursor.svg') 2x) 4 4, auto;
+    cursor: url('./new-cursor.svg') 16 16, auto;
+    cursor: -webkit-image-set(url('./new-cursor.svg') 2x) 4 4, auto;
+
     
 }
 
@@ -1027,15 +1027,15 @@ nav, h2 {
 }
 
 #nav:hover {
-        cursor: url('./pointer2.svg') 4 4, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+        cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
 }
 
 
 
 .nav-below img:hover {
-    cursor: url('./pointer2.svg') 4 4, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
 }
 
 
@@ -1067,8 +1067,8 @@ nav, h2 {
 
 .menu-nav:hover {
     
-    cursor: url('./pointer2.svg') 4 4, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     transition:2s;
 }
 
@@ -1124,8 +1124,8 @@ nav, h2 {
 .menu-body p:hover {
     color:#cacaef;
     background-color: #241d71;
-     cursor: url('./pointer2.svg') 4 4, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+     cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     margin-left:7px;
     transition:2s;
 }
@@ -1213,8 +1213,8 @@ button p {
 }
 
 button:hover {
-    cursor: url('./pointer2.svg') 4 4, pointer;
-    cursor: -webkit-image-set(url('./pointer2.svg') 2x) 4 4, pointer;
+    cursor: url('./new-pointer.svg') 16 16, pointer;
+    cursor: -webkit-image-set(url('./new-pointer.svg') 2x) 4 4, pointer;
     
     background-color:#cacaef;
     box-shadow:5px 5px 15px rgba(27, 20, 100, 0.2));
