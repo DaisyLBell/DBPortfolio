@@ -683,7 +683,7 @@ font-style: normal;
 /*	color:#1b1464;*/
     z-index:3;
     display:flex;
-/*        overflow:hidden;*/
+        overflow:hidden;
     }
 
 .project-pages {
@@ -738,7 +738,7 @@ font-style: normal;
         height:auto;
         z-index:5;
         padding-top:37vh;
-        padding-right:10vw;
+/*        padding-right:10vw;*/
         padding-bottom:10vh;
         padding-left:10vw;
         display:flex;
@@ -1547,7 +1547,7 @@ font-style: normal;
         height:auto;
         z-index:5;
         padding-top:37vh;
-        padding-right:10vw;
+/*        padding-right:10vw;*/
         padding-bottom:10vh;
         padding-left:10vw;
         display:flex;
@@ -2296,6 +2296,7 @@ font-style: normal;
    background-image: linear-gradient(white, white, white, #f6e3da, #f0bca4, #db9cba);
     z-index:3;
     display:flex;
+        overflow: hidden;
     }
     
     
@@ -2347,7 +2348,7 @@ font-style: normal;
         height:auto;
         z-index:5;
         padding-top:30vh;
-        padding-right:10vw;
+        padding-right:0vw;
         padding-bottom:20vh;
         padding-left:10vw;
         display:flex;

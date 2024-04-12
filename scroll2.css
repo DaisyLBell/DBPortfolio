@@ -520,6 +520,8 @@ padding-top:26vh;
    background-image:linear-gradient(white, white, white, #f6e3da, #f0bca4, #db9cba);
     z-index:3;
     display:flex;
+    
+    overflow: hidden;
 }
     
     
@@ -529,7 +531,7 @@ padding-top:26vh;
         height:auto;
         z-index:5;
         padding-top:37vh;
-        padding-right:10vw;
+/*        padding-right:10vw;*/
         padding-bottom:10vh;
         padding-left:10vw;
         display:flex;
@@ -1104,6 +1106,7 @@ padding-top:20vh;
    background-image:linear-gradient(white, white, white, #f6e3da, #f0bca4, #db9cba);
     z-index:3;
     display:flex;
+    overflow: hidden;
 }
     
     
@@ -1113,7 +1116,7 @@ padding-top:20vh;
         height:auto;
         z-index:5;
         padding-top:30vh;
-        padding-right:10vw;
+/*        padding-right:10vw;*/
         padding-bottom:10vh;
         padding-left:10vw;
         display:flex;
@@ -1688,6 +1691,7 @@ padding-top:32vh;
    background-image: linear-gradient(white, white, white, #f6e3da, #f0bca4, #db9cba);
     z-index:3;
     display:flex;
+    overflow:hidden;
 }
     
     .closing {
@@ -1696,7 +1700,7 @@ padding-top:32vh;
         height:auto;
         z-index:5;
         padding-top:30vh;
-        padding-right:20vw;
+/*        padding-right:20vw;*/
         padding-bottom:20vh;
         padding-left:20vw;
         display:flex;
@@ -2267,6 +2271,7 @@ padding-top:32vh;
    background-image: linear-gradient(white, white, white, #f6e3da, #f0bca4, #db9cba);
     z-index:3;
     display:flex;
+    overflow: hidden;
 }
     
     .closing {
@@ -2275,7 +2280,7 @@ padding-top:32vh;
         height:auto;
         z-index:5;
         padding-top:30vh;
-        padding-right:20vw;
+/*        padding-right:20vw;*/
         padding-bottom:20vh;
         padding-left:20vw;
         display:flex;
@@ -2792,6 +2797,7 @@ padding-top:30vh;
    background-image:linear-gradient(white, white, white, #f6e3da, #f0bca4, #db9cba);
     z-index:3;
     display:flex;
+    overflow: hidden;
 }
     
     .closing {
@@ -3367,6 +3373,7 @@ padding-top:27vh;
    background-image: linear-gradient(white, white, white, #f6e3da, #f0bca4, #db9cba);
     z-index:3;
     display:flex;
+    overflow: hidden;
 }
     
     .closing {
