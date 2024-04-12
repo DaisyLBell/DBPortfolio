@@ -2615,9 +2615,9 @@ font-style: normal;
     position:absolute;
     display:flex;
 /*    z-index:50;*/
-    width:80vw;
+    width:100vw;
     height:160vh;
-    margin-left:12vw;
+    margin-left:-0vw;
     overflow:hidden;
 }
 
@@ -2787,6 +2787,7 @@ padding-top:30vh;
 .sticky1 h2 {
         font-size:42px;
         line-height:60px;
+    width:60vw;
     }
 
 .sticky2 {
@@ -3151,7 +3152,7 @@ font-style: normal;
 /*    z-index:50;*/
     width:100vw;
     height:100vh;
-    margin-left:-5vw;
+    margin-left:-0vw;
 /*    padding-left:20vw;*/
         overflow:hidden;
 }
@@ -3159,21 +3160,21 @@ font-style: normal;
     .real-gallery-container {
         width:30vw;
         height:2vh;
-        margin-left:42vw;
-        margin-top:37vh;
+        margin-left:35vw;
+        margin-top:35vh;
         position:absolute;
 
     }
 
 .gallery-item {
 width:auto;
-    height:40vh;
+    height:45vh;
     object-fit:cover;
     position:absolute;
 }
     
     .gallery-item img {
-        height:40vh;
+        height:45vh;
         width:auto;
     }
 
@@ -3214,7 +3215,7 @@ width:auto;
     
     .gallery-intro {
         color: #009840;
-        margin-left:-29vw;
+        margin-left:-38vw;
         margin-top:35vh;
         width:23vw;
         display:block;
@@ -3332,6 +3333,7 @@ padding-top:27vh;
 .sticky1 h2{
         font-size:42px;
         line-height:60px;
+    width:55vw;
     }
 
 .sticky2 {
