@@ -36,9 +36,12 @@ childElement.forEach((element, index) => {
 //        }, 3000);
 //        
 //        });
+
     
-    
-    
+    element.addEventListener("click", function() {
+       let disappear = document.querySelector(".tap");
+        disappear.style.display = "none";
+    });
     
     
     
@@ -46,6 +49,7 @@ childElement.forEach((element, index) => {
         zIndex++;
         element.style.marginLeft = "60em";
         element.style.zIndex = zIndex.toString();
+        
         element.style.transform = "rotate(0deg)";
         
         element.style.transition = " left 0.7s ease";
@@ -67,7 +71,7 @@ childElement.forEach((element, index) => {
 
 
 let tap = document.querySelector(".tap");
-let otherTap = document.getElementsByClassName(".gallery-item");
+//let otherTap = document.getElementsByClassName(".gallery-item");
 
 
 
@@ -79,11 +83,11 @@ tap.addEventListener("click", function () {
 });
 
 
-otherTap.addEventListener("click", function () {
-    
-    let disappear = document.querySelector(".tap");
-    
-    disappear.style.display = "none";
-    disappear.style.opacity = opacity.toString("0");
-    
-});
+//otherTap.addEventListener("click", function () {
+//    
+//    let disappear = document.querySelector(".tap");
+//    
+//    disappear.style.display = "none";
+//    disappear.style.opacity = opacity.toString("0");
+//    
+//});
