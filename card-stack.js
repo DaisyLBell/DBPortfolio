@@ -44,6 +44,14 @@ childElement.forEach((element, index) => {
     });
     
     
+//    let tap = document.querySelector(".tap");
+//    
+//    tap.addEventListener("click", function() {
+//        
+//    });
+//    
+    
+    
     
     element.addEventListener("click", () => {
         zIndex++;
