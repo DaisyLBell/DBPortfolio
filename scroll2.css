@@ -204,7 +204,7 @@ font-style: normal;
     
     @keyframes MoveUpDown {
         0%, 100% {
-            margin-top:15.25vh;
+            margin-top:17.25vh;
         }
         50% {
             margin-top:19vh;
