@@ -10,32 +10,6 @@ childElement.forEach((element, index) => {
     img.setAttribute("class", "image");
     element.appendChild(img);
     
-    
-//        element.addEventListener("click", () => {  
-//           
-//                   zIndex++;
-//        element.style.left = "60em";
-//        element.style.zIndex = zIndex.toString();
-//        element.style.transform = "rotate(0deg)";
-//        
-//        element.style.transition = "left 0.3s ease"; 
-//            
-//    
-//        
-//        setTimeout( () => {
-//            zIndex -= 70;
-//            element.style.left = "";
-//            element.style.zIndex = zIndex.toString();
-//            element.style.transform = "";
-//            
-//            element.style.transition = "all 0.3s ease";
-//            
-//            setTimeout(() => {
-//                element.style.transition = "";
-//            }, 1000);
-//        }, 3000);
-//        
-//        });
 
     
     element.addEventListener("click", function() {
@@ -43,18 +17,12 @@ childElement.forEach((element, index) => {
         disappear.style.display = "none";
     });
     
-    
-//    let tap = document.querySelector(".tap");
-//    
-//    tap.addEventListener("click", function() {
-//        
-//    });
-//    
+  
     
     
     
     element.addEventListener("click", () => {
-        zIndex++;
+//        zIndex++;
         element.style.marginLeft = "60em";
         element.style.zIndex = zIndex.toString();
         
@@ -68,22 +36,12 @@ childElement.forEach((element, index) => {
             element.style.zIndex = zIndex.toString();
             element.style.transform = "";
             
-            element.style.transition = "all 0.7s ease";
+            element.style.transition = " all 0.8s ease";
             
             setTimeout(() => {
                 element.style.transition = "";
             }, 1000);
-        }, 200);
+        }, 50);
     });
 });
-
-
-//let tap = document.querySelector(".tap");
-//
-//tap.addEventListener("click", function () {
-//    
-//   let disappear = document.querySelector(".tap");
-//    disappear.style.display = "none";
-//    
-//});
 

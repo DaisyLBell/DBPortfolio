@@ -204,10 +204,10 @@ font-style: normal;
     
     @keyframes MoveUpDown {
         0%, 100% {
-            margin-top:14.25vh;
+            margin-top:15.25vh;
         }
         50% {
-            margin-top:16vh;
+            margin-top:19vh;
         }
     }
     
@@ -317,7 +317,7 @@ width:80vw;
         background-color:#009840;
         
         transform: translateX(100%);
-        animation: scroll-left 160s linear infinite;
+        animation: scroll-left 220s linear infinite;
 /*        overflow-x:hidden;*/
 /*        background-color:#009840;*/
         
@@ -968,7 +968,7 @@ width:70vw;
         background-color:#009840;
         
         transform: translateX(100%);
-        animation: scroll-left 160s linear infinite;
+        animation: scroll-left 220s linear infinite;
     }
     
     
@@ -1470,7 +1470,7 @@ font-style: normal;
         position:absolute;
         z-index:52;
         margin-left:31vw;
-        margin-top:25vh;
+/*        margin-top:25vh;*/
     
                     
         animation: MoveUpDown 3s linear infinite;
@@ -1478,10 +1478,10 @@ font-style: normal;
     
     @keyframes MoveUpDown {
         0%, 100% {
-            margin-top:20.25vh;
+            margin-top:18.25vh;
         }
         50% {
-            margin-top:23vh;
+            margin-top:21vh;
         }
     }
     
@@ -1611,7 +1611,7 @@ width:65vw;
         background-color:#009840;
         
         transform: translateX(100%);
-        animation: scroll-left 160s linear infinite;
+        animation: scroll-left 220s linear infinite;
     }
     
     
@@ -2114,7 +2114,7 @@ font-style: normal;
         width:60vw;
         height:40vh;
         margin-left:2vw;
-        margin-top:32vh;
+        margin-top:30vh;
         position:absolute;
 
     }
@@ -2125,17 +2125,17 @@ font-style: normal;
         position:absolute;
         z-index:52;
         margin-left:25vw;
-        margin-top:26vh;
+/*        margin-top:26vh;*/
    
         animation: MoveUpDown 3s linear infinite;
     }
     
     @keyframes MoveUpDown {
         0%, 100% {
-            margin-top:23.25vh;
+            margin-top:15vh;
         }
         50% {
-            margin-top:25vh;
+            margin-top:18vh;
         }
     }
     
@@ -2260,7 +2260,7 @@ width:55vw;
         background-color:#009840;
         
         transform: translateX(100%);
-        animation: scroll-left 160s linear infinite;
+        animation: scroll-left 220s linear infinite;
     }
     
     
@@ -2763,8 +2763,10 @@ font-style: normal;
         text-align:center;
         position:absolute;
         z-index:52;
-        margin-left:11vw;
+        margin-left:11.75vw;
         margin-top:15vh;
+            
+/*            transform: translateX(40%);*/
     
         animation: MoveUpDown 3s linear infinite;
     }
@@ -2772,9 +2774,11 @@ font-style: normal;
     @keyframes MoveUpDown {
         0%, 100% {
             margin-top:13.25vh;
+/*            transform: translateY(20%);*/
         }
         50% {
             margin-top:15vh;
+/*            transform: translateY(25%);*/
         }
     }
     
@@ -2833,7 +2837,7 @@ width:25vw;
     .gallery-intro {
         color: #009840;
         margin-left:-40vw;
-        margin-top:33vh;
+        margin-top:37vh;
         width:22.5vw;
         display:block;
         position:absolute;
@@ -2842,9 +2846,17 @@ width:25vw;
     
     .gallery-intro h2 {
         font-family:"carbon";
-        font-size:2.5vw;
+        font-size:1.75vw;
         line-height:3vw;
         width:32vw;
+        
+        color:white;
+        background-color:#009840;
+       padding:2vw;
+        padding-right:5.75vw;
+            
+        padding-top:1.5vw;
+        padding-bottom:1.5vw;
     }
     
     
@@ -3334,17 +3346,21 @@ font-style: normal;
         position:absolute;
         z-index:52;
         margin-left:10vw;
-        margin-top:19vh;
+/*        transform: translateX(30%);*/
+/*        top:45%;*/
+/*        margin-top:19vh;*/
         
         animation: MoveUpDown 3s linear infinite;
     }
     
     @keyframes MoveUpDown {
         0%, 100% {
-            margin-top:17.25vh;
+/*            margin-top:17.25vh;*/
+            transform: translateY(20%);
         }
         50% {
-            margin-top:19vh;
+/*            margin-top:19vh;*/
+            transform:translateY(40%);
         }
     }
     
@@ -3411,7 +3427,7 @@ width:auto;
     .gallery-intro {
         color: #009840;
         margin-left:-38vw;
-        margin-top:35vh;
+        margin-top:42vh;
         width:23vw;
         display:block;
     }
@@ -3419,9 +3435,18 @@ width:auto;
     
     .gallery-intro h2 {
         font-family:"carbon";
-        font-size:1.75vw;
+        font-size:1.55vw;
         line-height:2.5vw;
         width:30vw;
+        
+        color:white;
+        background-color:#009840;
+       padding:1vw;
+        
+        padding-right:2vw;
+            
+        padding-top:1.5vw;
+        padding-bottom:1.5vw;
     }
     
     .gallery-intro-2 {
