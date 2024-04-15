@@ -1584,6 +1584,8 @@ width:65vw;
         background-color:#009840;
         color:white;
         text-wrap:nowrap;
+        white-space: nowrap;
+        display:flex;
         overflow-x:hidden;
         position:relative;
 
@@ -2231,6 +2233,8 @@ width:55vw;
         background-color:#009840;
         color:white;
         text-wrap:nowrap;
+        white-space: nowrap;
+        display:flex;
         overflow-x:hidden;
         position:relative;
 
