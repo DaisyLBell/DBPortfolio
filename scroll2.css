@@ -2616,6 +2616,7 @@ nav, h2 {
         .nav h2 {
         font-weight:200;
         margin-top:9vh;
+            z-index:100;
     }
     
     .logo {
@@ -2626,7 +2627,7 @@ nav, h2 {
         margin-top:7vh;
         text-align:center;
 /*        position:ab; */
-        z-index:90;
+        z-index:3;
         color:#009840;
         position:absolute;
         width:100vw;
@@ -3171,7 +3172,7 @@ nav {
     height:15vh;
     width:100vw;
     background-color:rgba(255, 255, 255, 0);
-    z-index:100;
+    z-index:90;
     position:fixed;
     text-align: right;
     align-items: center;
